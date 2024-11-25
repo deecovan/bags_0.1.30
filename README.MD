@@ -4,6 +4,7 @@
 ## v0.1.25 Release
 * Test, Analyse and Rebalance
     * Recalc and Rebalance Quantities
+    * Update images
     * Add New Screens
 -----------
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
