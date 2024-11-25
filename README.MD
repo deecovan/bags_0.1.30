@@ -4,6 +4,7 @@
 ## v0.1.25 Release
 * Test, Analyse and Rebalance
     * Recalc and Rebalance Quantities
+    * Add New Screens
 -----------
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
 - Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LNL,SMS,LML
