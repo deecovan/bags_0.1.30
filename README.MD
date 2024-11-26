@@ -39,4 +39,3 @@
 -----------
 ## Issues
 - @TODO Needs: translations
-- 
