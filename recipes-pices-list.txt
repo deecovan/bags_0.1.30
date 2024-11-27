@@ -9,7 +9,7 @@ hamper t2
 hamper t3
 12 slots (x2)
 from hamper-t2
-66 +30 tops +4 ropes (+24) = 110/12(10x)
+66 +30 tops +4 ropes (+24) = 110/12(9x)
 
 bigbag t1
 6 slots

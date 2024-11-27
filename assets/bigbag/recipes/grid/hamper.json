@@ -13,9 +13,9 @@
 	}
 ,
 	{
-		ingredientPattern: "M_M,M_M,MMM",
+		ingredientPattern: "L_L,L_L,LLL",
 		ingredients: {
-			"M": { type: "item", code: "game:papyrustops", quantity: 3 },
+			"L": { type: "item", code: "game:papyrustops", quantity: 3 },
 		},
 		name: "hamper",
 		width: 3,
