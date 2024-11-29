@@ -1,11 +1,14 @@
 # bags_0.1.25 GitHub repo
 ### Moved to deecovan/bags_0.1.25
 -----------
-## v0.1.25 Release
-* Test, Analyse and Rebalance
-    * Recalc and Rebalance Quantities
+## v0.1.25 Release Dec-01
+- Tested Finished 4x BigBag-T3 (InGame-June-2nd)
+    - Test, Analyse and Rebalance
+    - Recalc and Rebalance Quantities
+* @TODO
     * Update images
     * Add New Screens
+    * Needs: translations
 -----------
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
 - Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LNL,SMS,LML
@@ -36,6 +39,4 @@
 - Make the Large Basket as separate item
 - Rename Large Basket to Hamper
 - Test and add Screenshots
------------
-## Issues
-- @TODO Needs: translations
+
