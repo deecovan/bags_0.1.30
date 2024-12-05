@@ -1,5 +1,6 @@
 # bags_0.1.25 GitHub repo
 ### Moved to deecovan/bags_0.1.25
+- Start testing 1.20.0-rc1
 -----------
 ## v0.1.25 Release Dec-01
 - Tested Finished 4x BigBag-T3 (InGame-June-2nd)
