@@ -28,4 +28,3 @@ from bigbag-t2
 2x(54..57) + 37 pcs = 147/18(8.2x)
 from hamper-t3
 110 + 41 pcs = 151/18(8.4x)
-
