@@ -1,9 +1,9 @@
 [
 	{
-		ingredientPattern: "LSL,LLL",
+		ingredientPattern: "TST,TTT",
 		enabled: true,
 		ingredients: {
-			"L": { type: "item", code: "game:cattailtops", quantity: 5 },
+			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 5 },
 			"S": { type: "item", code: "game:stick", quantity: 5 }
 		},
 		name: "bigbag",
@@ -14,15 +14,16 @@
 	}
 ,
 	{
-		ingredientPattern: "MTM,MMM",
+		ingredientPattern: "TST,_B_",
 		ingredients: {
-			"M": { type: "item", code: "game:papyrustops", quantity: 5 },
-			"T": { type: "item", code: "game:stick", quantity: 5 }
+			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 5 },
+			"S": { type: "item", code: "game:stick", quantity: 5 }
+			"B": { type: "item", code: "game:basket", quantity: 1 },
 		},
-		name: "bigbag",
+		name: "hamper",
 		width: 3,
 		height: 2,
 		recipeGroup: 1,
-		output: { type: "item", code: "bigbag"  }
+		output: { type: "item", code: "hamper"  }
 	}
 ]
