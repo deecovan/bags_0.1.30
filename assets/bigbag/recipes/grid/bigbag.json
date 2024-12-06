@@ -4,7 +4,7 @@
 		enabled: true,
 		ingredients: {
 			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 5 },
-			"S": { type: "item", code: "game:stick", quantity: 5 }
+			"S": { type: "item", code: "game:stick", quantity: 5 },
 		},
 		name: "bigbag",
 		width: 3,
@@ -17,7 +17,7 @@
 		ingredientPattern: "TST,_B_",
 		ingredients: {
 			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 5 },
-			"S": { type: "item", code: "game:stick", quantity: 5 }
+			"S": { type: "item", code: "game:stick", quantity: 5 },
 			"B": { type: "item", code: "game:basket", quantity: 1 },
 		},
 		name: "bigbag",

@@ -5,7 +5,7 @@
 		ingredients: {
 			"N": { type: "item", code: "game:cattailtops", quantity: 3 },
 			"M": { type: "item", code: "bigbag", quantity: 1 },
-			"L": { type: "item", code: "game:stick", quantity: 3 }
+			"L": { type: "item", code: "game:stick", quantity: 3 },
 		},
 		name: "bigbag-t2",
 		width: 3,
@@ -20,7 +20,7 @@
 		ingredients: {
 			"N": { type: "item", code: "game:papyrustops", quantity: 3 },
 			"M": { type: "item", code: "bigbag", quantity: 1 },
-			"L": { type: "item", code: "game:stick", quantity: 3 }
+			"L": { type: "item", code: "game:stick", quantity: 3 },
 		},
 		name: "bigbag-t2",
 		width: 3,
@@ -35,7 +35,7 @@
 		ingredients: {
 			"N": { type: "item", code: "game:cattailtops", quantity: 3 },
 			"M": { type: "item", code: "hamper-t2", quantity: 1 },
-			"L": { type: "item", code: "game:stick", quantity: 3 }
+			"L": { type: "item", code: "game:stick", quantity: 3 },
 		},
 		name: "bigbag-t2",
 		width: 3,
@@ -50,7 +50,7 @@
 		ingredients: {
 			"N": { type: "item", code: "game:papyrustops", quantity: 3 },
 			"M": { type: "item", code: "hamper-t2", quantity: 1 },
-			"L": { type: "item", code: "game:stick", quantity: 3 }
+			"L": { type: "item", code: "game:stick", quantity: 3 },
 		},
 		name: "bigbag-t2",
 		width: 3,
