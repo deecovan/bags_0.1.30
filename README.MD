@@ -1,8 +1,8 @@
 # bags_v0.1.30 GitHub repo
 
 ## v0.1.27 Release Dec-09
+- Update images and descriptions
 - Add translations
-- Update images
 - Add screens
 ## v0.1.26 Release Dec-06
 - Add recipies from Basket to Hamper and BigBag with Tops and Sticks
