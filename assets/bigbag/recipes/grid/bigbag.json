@@ -22,7 +22,7 @@
 		},
 		name: "hamper",
 		width: 3,
-		height: 2,
+		height: 3,
 		recipeGroup: 1,
 		output: { type: "item", code: "hamper"  }
 	}
