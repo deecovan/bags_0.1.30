@@ -1,9 +1,9 @@
 [
 	{
-		ingredientPattern: "L_L,L_L,LLL",
+		ingredientPattern: "T_T,T_T,TTT",
 		enabled: true,
 		ingredients: {
-			"L": { type: "item", code: "game:cattailtops", quantity: 3 },
+			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 3 },
 		},
 		name: "hamper",
 		width: 3,
@@ -13,13 +13,14 @@
 	}
 ,
 	{
-		ingredientPattern: "L_L,L_L,LLL",
+		ingredientPattern: "T_T,_B_",
 		ingredients: {
-			"L": { type: "item", code: "game:papyrustops", quantity: 3 },
+			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 3 },
+			"B": { type: "item", code: "game:basket", quantity: 3 },
 		},
 		name: "hamper",
 		width: 3,
-		height: 3,
+		height: 2,
 		recipeGroup: 1,
 		output: { type: "item", code: "hamper"  }
 	}
