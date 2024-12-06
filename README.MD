@@ -11,6 +11,7 @@
 - Add screens
 ## v0.1.26 Release Dec-06
 - Add recipies Bag to Hamper and Bag to BigBag with Tops and Sticks
+- Rewrite recipies letters as \'TST \_B\_\'
 - Recalc and Rebalance
 ## Finished
 -----------

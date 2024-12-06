@@ -1,6 +1,8 @@
 hamper t1 
 4 slots
 21 tops (5.2x)
++ Hamper from Bag
++6 tops T_T _B_
 
 hamper t2 
 6 slots (+2)
@@ -14,6 +16,8 @@ from hamper-t2
 bigbag t1
 6 slots
 30 pcs (5x) - 2x to simple Bag
++ BigBag from Bag
++10 tops +5 sticks TST _B_
 
 bigbag t2
 9 slots (+3)
