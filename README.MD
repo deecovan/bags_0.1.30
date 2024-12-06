@@ -1,21 +1,28 @@
 # bags_v0.1.30 GitHub repo
 
-## v0.1.27 Release Dec-09
-- Update images and descriptions
-- Add translations
-- Add screens
+## v0.1.29
+*  Publish
+## v0.1.27
+*  Update images and descriptions
+*  Add translations
+*  Add screens
+## v0.1.26
+*  Dont start 100% landscale because it is terrible
+*  Recalc and Rebalance !BECAUSE new Basket recipe 2/3 lower - 5x2 tops
 ## v0.1.26 Release Dec-06
-- Add recipies from Basket to Hamper and BigBag with Tops and Sticks
-- Rewrite recipies letters as \'TST \_B\_\' Add Variants
-- Recalc and Rebalance
+-  Add recipies from Basket to Hamper and BigBag with Tops and Sticks
+-  Rewrite recipies letters as \'TST \_B\_\' Add Variants
 -----------
-## Finished v0.1.25
+
+# Finished v0.1.25
 ### Moved to deecovan/bags_0.1.25
-* @TODO
+*   @TODO
     * Update images
     * Add New Screens
     * Needs: translations
 -----------
+
+# Vintage Story 1.20 rc-1 released
 - Start testing in Vintage Story 1.20.0-rc1
 -----------
 ## v0.1.25 Release Dec-01
