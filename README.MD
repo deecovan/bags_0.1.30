@@ -1,16 +1,25 @@
 # bags_0.1.25 GitHub repo
 ### Moved to deecovan/bags_0.1.25
+* @TODO
+    * Update images
+    * Add New Screens
+    * Needs: translations
+-----------
+## v0.1.27 Release Dec-09
+- Add translations
+- Update images
+- Add screens
+## v0.1.26 Release Dec-06
+- Add recipies Bag to Hamper and Bag to BigBag with Tops and Sticks
+- Recalc and Rebalance
+## Finished
+-----------
 - Start testing 1.20.0-rc1
 -----------
 ## v0.1.25 Release Dec-01
 - Tested Finished 4x BigBag-T3 (InGame-June-2nd)
     - Test, Analyse and Rebalance
     - Recalc and Rebalance Quantities
-* @TODO
-    * Update images
-    * Add New Screens
-    * Needs: translations
------------
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
 - Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LNL,SMS,LML
 - Create BigBag T3 from Hamper T3 with 5x4...hamper-t3x1...5x1...5x3 sticks...hamper-t3...rope...tops SMS,SNS,LLL
@@ -29,7 +38,6 @@
 - Create Hamper with 3x8 tops L_L,LLL,LLL
 - Create BigBag with 5x1...5x5 sticks...tops LML,LLL
 -----------
-## Finished
 - Hamper and BigBag T3
 - Bigag T2
 - Hamper T1 and T2
