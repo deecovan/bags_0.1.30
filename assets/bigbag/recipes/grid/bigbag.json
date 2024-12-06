@@ -20,10 +20,10 @@
 			"S": { type: "item", code: "game:stick", quantity: 5 }
 			"B": { type: "item", code: "game:basket", quantity: 1 },
 		},
-		name: "hamper",
+		name: "bigbag",
 		width: 3,
-		height: 3,
+		height: 2,
 		recipeGroup: 1,
-		output: { type: "item", code: "hamper"  }
+		output: { type: "item", code: "bigbag"  }
 	}
 ]
