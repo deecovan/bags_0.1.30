@@ -1,21 +1,22 @@
-# bags_0.1.25 GitHub repo
+# bags_v0.1.26 GitHub repo
+
+## v0.1.27 Release Dec-09
+- Add translations
+- Update images
+- Add screens
+## v0.1.26 Release Dec-06
+- Add recipies from Basket to Hamper and BigBag with Tops and Sticks
+- Rewrite recipies letters as \'TST \_B\_\' Add Variants
+- Recalc and Rebalance
+-----------
+## Finished v0.1.25
 ### Moved to deecovan/bags_0.1.25
 * @TODO
     * Update images
     * Add New Screens
     * Needs: translations
 -----------
-## v0.1.27 Release Dec-09
-- Add translations
-- Update images
-- Add screens
-## v0.1.26 Release Dec-06
-- Add recipies Bag to Hamper and Bag to BigBag with Tops and Sticks
-- Rewrite recipies letters as \'TST \_B\_\'
-- Recalc and Rebalance
-## Finished
------------
-- Start testing 1.20.0-rc1
+- Start testing in Vintage Story 1.20.0-rc1
 -----------
 ## v0.1.25 Release Dec-01
 - Tested Finished 4x BigBag-T3 (InGame-June-2nd)
