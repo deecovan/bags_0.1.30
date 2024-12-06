@@ -10,6 +10,7 @@
 *  Dont start 100% landscale because it is terrible
 *  Recalc and Rebalance !BECAUSE new Basket recipe 2/3 lower - 5x2 tops
 ## v0.1.26 Release Dec-06
+-  Rename and Change repo to github.com/deecovan/bags_0.1.30
 -  Add recipies from Basket to Hamper and BigBag with Tops and Sticks
 -  Rewrite recipies letters as \'TST \_B\_\' Add Variants
 -----------
