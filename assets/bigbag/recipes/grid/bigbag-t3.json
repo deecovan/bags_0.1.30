@@ -1,6 +1,6 @@
 [
 	{
-		ingredientPattern: "SHS,RSR,TTT",
+		ingredientPattern: "SSS,RHR,TTT",
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:stick", quantity: 3 },

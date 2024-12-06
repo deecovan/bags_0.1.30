@@ -1,6 +1,6 @@
 [
 	{
-		ingredientPattern: "THT,RHR,TTT",
+		ingredientPattern: "TTT,RHR,THT",
 		enabled: true,
 		ingredients: {
 			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 4 },
