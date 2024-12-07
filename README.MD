@@ -11,8 +11,8 @@
 *  Add translations
 *  Add screens
 ## v0.1.26 Release Dec-06
-*  Dont start 100% landscale because it is visually terrible and unplayable
-*  Recalc and Rebalance !BECAUSE new Basket recipe 2/3 lower
+*  Test rebalanced T1->T3 BB->BB and H->BB
+-  Recalc and Rebalance !BECAUSE new Basket recipe 2/3 lower
    - Change 6->4 5->3 3->2 and 2->1 values
 ## v0.1.26 Release Dec-06
 -  Rename and Change repo to github.com/deecovan/bags_0.1.30
