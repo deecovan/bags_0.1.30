@@ -1,7 +1,7 @@
 [
   {
     "code": "halfling",
-    "traits": ["fleetfooted", "mason", "carpenter", "clothier", "weak"],
+    "traits": ["fleetfooted", "mason", "carpenter", "clothier"],
     "gear": [
       { "type": "item", "code": "clothes-upperbody-commoner-shirt" },
       { "type": "item", "code": "clothes-upperbodyover-commoner-coat" },
