@@ -3,7 +3,7 @@
   "modid": "NavarlioClassesDee",
   "name": "NavarlioClassesDee",
   "description": "Navarlio classes 1.0.8-rc.13\nNo debuffs by Dee.",
-  "authors": ["Mr1k3","Kara","Risskitty","Dee"],
+  "authors": ["Mr1k3, Kara, Risskitty, Dee"],
   "version": "1.0.8-rc.13",
   "RequiredOnClient": true,
   "RequiredOnServer": true,
