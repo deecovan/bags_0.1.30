@@ -1,0 +1,10 @@
+{
+    "type": "Content",
+    "modid": "theremnantsbuffed",
+    "name": "The Remnants Buffed",
+    "version": "1.0.2-rc.13",
+    "authors": ["MrFistycuffs","Dee"],
+    "description": "Adds an adjusted series of custom flavor classes heavily inspired by the Vintage Story lore.\nNo debuffs by Dee.",
+    "dependencies": {}
+}
+  

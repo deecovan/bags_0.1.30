@@ -1,0 +1,134 @@
+[
+	{
+		"code": "wanderer",
+		"traits": ["self sufficient", "powerful", "aescetic fasting", "pilferer", "relichunter"],
+		"gear": [
+			  { "type": "item", "code": "clothes-face-survivor"},
+			  { "type": "item", "code": "clothes-upperbody-great-steppe-shirt" },
+			  { "type": "item", "code": "clothes-lowerbody-survivor"},
+			  { "type": "item", "code": "clothes-foot-great-steppe-boots"},
+			  { "type": "item", "code": "clothes-hand-survivor"},
+			  { "type": "item", "code": "clothes-waist-malefactor-sash" },
+			  { "type": "item", "code": "clothes-shoulder-malefactor-cloak"}
+		]
+	},
+	{  
+	    "code": "hedgeknight",
+	    "traits": ["bulwark", "stalwart", "strong", "crusher", "chivalricheritage"],
+	    "gear": [	
+		     { "type": "item", "code": "clothes-upperbody-lackey-shirt" },
+		     { "type": "item", "code": "clothes-lowerbody-jailor-pants" },
+		     { "type": "item", "code": "clothes-foot-forlorn-shoes" },
+		     { "type": "item", "code": "clothes-hand-forlorn-bracer" },
+		     { "type": "item", "code": "clothes-waist-sturdy-belt" },
+		     { "type": "item", "code": "clothes-shoulder-squire-tunic"},
+			 { "type": "item", "code": "clothes-head-squire-hood"}
+	    ]
+	},
+	{  
+        "code": "serf",
+        "traits": ["fieldhand", "butcher", "arborist", "healthy", "composter"],
+        "gear": [	
+           { "type": "item", "code": "clothes-upperbody-linen-tunic" },
+           { "type": "item", "code": "clothes-lowerbody-commoner-trousers" },
+           { "type": "item", "code": "clothes-foot-worn-leather-boots" },
+           { "type": "item", "code": "clothes-waist-linen-rope" },
+           { "type": "item", "code": "clothes-shoulder-peasent-kaftan"},
+           { "type": "item", "code": "clothes-head-shepherds-cowl"}
+        ]
+    },
+	{
+		  "code": "ironmonger", 
+		  "traits": ["burner", "rock hound", "gear eyed", "strong", "makeshift"],
+		  "gear": [	
+			   { "type": "item", "code": "clothes-upperbodyover-miner" },
+			   { "type": "item", "code": "clothes-shoulder-jord-robe" },
+			   { "type": "item", "code": "clothes-lowerbody-workmans-gown" },
+			   { "type": "item", "code": "clothes-foot-worn-leather-boots" },
+			   { "type": "item", "code": "clothes-hand-surgeon" },
+			   { "type": "item", "code": "clothes-face-survivor"}  
+		]
+	},
+	{  
+		  "code": "yeoman",
+		  "traits": ["seasoned archer", "quiet", "fleetfooted", "low metabolism", "bowyer"],
+		  "gear": [	
+			   { "type": "item", "code": "clothes-upperbody-earth-toned-robe" },
+			   { "type": "item", "code": "clothes-lowerbody-surgeon" },
+			   { "type": "item", "code": "clothes-foot-soldier-boots" },
+			   { "type": "item", "code": "clothes-waist-marketeer" },
+			   { "type": "item", "code": "clothes-shoulder-stained-leather-poncho"},
+			   { "type": "item", "code": "clothes-hand-clockmaker-wristguard" }
+		  ]
+		
+    },
+	{
+		"code": "woodsman",
+		"traits": ["experienced hunter", "reaper", "forester", "ranger", "improviser"],
+		"gear": [
+			{ "type": "item", "code": "clothes-upperbody-shepherd-tunic" },
+			{ "type": "item", "code": "clothes-upperbodyover-hunter-coat"},
+			{ "type": "item", "code": "clothes-lowerbody-surgeon" },
+			{ "type": "item", "code": "clothes-foot-soldier-boots" },
+			{ "type": "item", "code": "clothes-waist-linen-rope" },
+			{ "type": "item", "code": "clothes-shoulder-woolen-scarf"},
+			{ "type": "item", "code": "clothes-hand-hunter-gloves" }
+		]
+	},
+	{
+		"code": "guildsman",
+		"traits": ["tailored fit", "low metabolism", "eye for value", "fleetfooted", "clothier"],
+		"gear": [
+			{ "type": "item", "code": "clothes-upperbody-marketeer" },
+			{ "type": "item", "code": "clothes-lowerbody-tailor-trousers" },
+			{ "type": "item", "code": "clothes-foot-scribe" },
+			{ "type": "item", "code": "clothes-waist-alchemist" },
+			{ "type": "item", "code": "clothes-hand-scribe" },
+			{ "type": "item", "code": "clothes-head-minstrel-hat"}	
+		]
+	},
+	{
+		"code": "malefactor",
+		"traits": ["vagabond", "looter", "fleetfooted", "furtive", "packrat"],
+		"gear": [
+			{ "type": "item", "code": "clothes-upperbody-malefactor-shirt" },
+			{ "type": "item", "code": "clothes-lowerbody-malefactor-trousers" },
+			{ "type": "item", "code": "clothes-face-malefactor-mask" },
+			{ "type": "item", "code": "clothes-foot-malefactor-boots" },
+			{ "type": "item", "code": "clothes-waist-peasant-strap" },
+			{ "type": "item", "code": "clothes-shoulder-miner"},
+			{ "type": "item", "code": "clothes-hand-malefactor-gloves" }
+		]
+	},
+	{
+		"code": "gearsmith",
+		"traits": ["technical", "gearworker", "healthy", "precise", "tinkerer","machinist"],
+		"gear": [
+			{ "type": "item", "code": "clothes-upperbody-linen-tunic" },
+			{ "type": "item", "code": "clothes-face-survivor"},
+			{ "type": "item", "code": "clothes-lowerbody-clockmaker-pants" },
+			{ "type": "item", "code": "clothes-foot-worn-leather-boots" },
+			{ "type": "item", "code": "clothes-waist-clockmaker-belt" },
+			{ "type": "item", "code": "clothes-shoulder-clockmaker-apron"},
+			{ "type": "item", "code": "clothes-hand-heavy-leather-gloves" }
+		]
+	},
+	{
+		"code": "blackguard",
+		"traits": ["reaver", "quick step", "hulking", "hardy", "merciless"],
+		"gear": [
+			{ "type": "item", "code": "clothes-upperbodyover-malefactor-tunic"},
+			{ "type": "item", "code": "clothes-lowerbody-marketeer" },
+			{ "type": "item", "code": "clothes-foot-high-leather-boots" },
+			{ "type": "item", "code": "clothes-waist-blackguard-belt" },
+			{ "type": "item", "code": "clothes-hand-surgeon"},
+			{ "type": "item", "code": "clothes-face-leather-reinforced-mask"}
+		]
+	}
+	
+
+
+
+
+	
+]
