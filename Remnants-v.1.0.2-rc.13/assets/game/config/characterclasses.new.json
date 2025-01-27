@@ -3,7 +3,7 @@
 		"code": "adaxioman",
 		"traits": [
 			"archer",
-			"evasive",
+			"evasive", 
 			"butcher",
 			"mighty",
 			"healthy",
@@ -13,11 +13,11 @@
 			"quiet",
 			"wellfed",
 			"looter",
-			"burner",
 			"fieldhand",
 			"arborist",
 			"forester",
 			"gearexpert",
+			"bowyer",
 			"relichunter",
 		],
 		

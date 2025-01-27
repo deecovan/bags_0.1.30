@@ -1,6 +1,6 @@
 {
-  "game:characterclass-hedgeknight": "Ad Axiom Man Knight",
-  "game:characterdesc-hedgeknight": "<font color=\"#99c9f9\"><i>Just an Ad Axiom SuperMan.</i>",
+  "game:characterclass-adaxioman": "Ad Axiom Man Knight",
+  "game:characterdesc-adaxioman": "<font color=\"#99c9f9\"><i>Just an Ad Axiom SuperMan.</i>",
   "game:characterclass-wanderer": "Wanderer",
   "game:characterdesc-wanderer": "<font color=\"#99c9f9\"><i>Banished far to a land of despair, Where shadows writhe and taint the air. A Wanderer walks, their crime unknown, Cursed to suffer, forever alone.</i></font><br><br>With less of a focus on pure exploration like Malefactors, Wanderers instead drive themselves to maintain their existence in the wilds. They excel in self-reliance and have trained extensively with a blade, however their nomadic lifestyle leaves them with little patience for skills such as hunting & mining.",
   "game:characterclass-ironmonger": "Ironmonger",
