@@ -1,5 +1,31 @@
 [
 	{
+		"code": "adaxioman",
+		"traits": [
+			"archer",
+			"evasive",
+			"butcher",
+			"mighty",
+			"healthy",
+			"burly",
+			"wanderer",
+			"miner",
+			"quiet",
+			"wellfed",
+			"looter",
+			"burner",
+			"fieldhand",
+			"arborist",
+			"forester",
+			"gearexpert",
+			"relichunter",
+		],
+		
+		"gear": [
+		
+		]
+	},
+	{
 		"code": "wanderer",
 		"traits": ["self sufficient", "powerful", "aescetic fasting", "pilferer", "relichunter"],
 		"gear": [
