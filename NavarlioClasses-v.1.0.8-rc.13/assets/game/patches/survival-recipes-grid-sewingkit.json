@@ -1,7 +1,0 @@
-[
-  {
-    "op": "remove",
-    "path": "/requiresTrait",
-    "file": "recipes/grid/sewingkit.json"
-  }
-]

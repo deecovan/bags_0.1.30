@@ -1,8 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/1/enabled",
-    "value": false,
-    "file": "recipes/grid/tool/longblade.json"
-  }
-]
