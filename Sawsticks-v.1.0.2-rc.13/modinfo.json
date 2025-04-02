@@ -1,0 +1,13 @@
+{
+    "type": "content",
+    "modid": "remiel_sawsticks",
+    "name": "Saw makes Sticks",
+    "authors": [
+        "el_remiel, Cheva"
+    ],
+    "description": "Use Saw or Axe to turn Firewood into Sticks",
+    "version": "1.0.2-rc.13",
+    "dependencies": {
+        "game": "1.20.4"
+    }
+}
