@@ -5,7 +5,7 @@
 ## v0.1.29
 *  Pre-Publish tests
 ## v0.1.28
--  ...
+-  Add new Grass types
 
 ## v0.1.27 -> [I am here]
 *  Update images and descriptions

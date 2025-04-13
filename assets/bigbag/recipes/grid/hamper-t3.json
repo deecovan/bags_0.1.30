@@ -3,7 +3,7 @@
 		ingredientPattern: "TTT,RHR,THT",
 		enabled: true,
 		ingredients: {
-			"T": { type: "item", code: "game:*tops", allowedVariants: ["cattail", "papyrus"], quantity: 4 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"bamboostakes"], quantity: 4 },
 			"H": { type: "item", code: "hamper-t2", quantity: 1 },
 			"R": { type: "item", code: "game:rope*", quantity: 1 },
 		},
