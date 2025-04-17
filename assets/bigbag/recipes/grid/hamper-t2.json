@@ -3,7 +3,7 @@
 		ingredientPattern: "T_T,THT",
 		enabled: true,
 		ingredients: {
-			"T": { type: "item", code: "*", allowedVariants: ["game:papyrustops", "game:cattailtops" ,"triodiascariosabundle", "palmleaf-trachycarpusfortunei", "bolboschoenusmaritimusbundle", "coconuthusk", "phormiumtenaxbundle"], quantity: 2 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 2 },
 			"H": { type: "item", code: "hamper", quantity: 1 },
 		},
 		name: "hamper-t2",

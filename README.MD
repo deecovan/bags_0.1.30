@@ -8,7 +8,8 @@
 ----------------
 ## ___v0.1.28___
 -  Add new Grass types
--  Update info version to 0.1.28 and Friendly to FloralZones
+-  Update info version to 0.1.28 
+-  Cant patch FloralZones recipe compones Leave *palmleaf* only
 
 ## v0.1.27 -> [I am here]
 *  Update images and descriptions

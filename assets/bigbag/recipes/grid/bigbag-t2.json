@@ -3,7 +3,7 @@
 		ingredientPattern: "SSS,TBT,TTT",
 		enabled: true,
 		ingredients: {
-			"T": { type: "item", code: "*", allowedVariants: ["game:papyrustops", "game:cattailtops" ,"triodiascariosabundle", "palmleaf-trachycarpusfortunei", "bolboschoenusmaritimusbundle", "coconuthusk", "phormiumtenaxbundle"], quantity: 2 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 2 },
 			"B": { type: "item", code: "bigbag", quantity: 1 },
 			"S": { type: "item", code: "game:stick", quantity: 2 },
 		},
@@ -17,7 +17,7 @@
 		ingredientPattern: "SSS,TBT,TTT",
 		enabled: true,
 		ingredients: {
-			"T": { type: "item", code: "*", allowedVariants: ["game:papyrustops", "game:cattailtops" ,"triodiascariosabundle", "palmleaf-trachycarpusfortunei", "bolboschoenusmaritimusbundle", "coconuthusk", "phormiumtenaxbundle"], quantity: 2 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 2 },
 			"B": { type: "item", code: "hamper-t2", quantity: 1 },
 			"S": { type: "item", code: "game:stick", quantity: 2 },
 		},

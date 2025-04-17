@@ -3,7 +3,7 @@
 		ingredientPattern: "TST,TTT",
 		enabled: true,
 		ingredients: {
-			"T": { type: "item", code: "*", allowedVariants: ["game:papyrustops", "game:cattailtops" ,"triodiascariosabundle", "palmleaf-trachycarpusfortunei", "bolboschoenusmaritimusbundle", "coconuthusk", "phormiumtenaxbundle"], quantity: 3 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 3 },
 			"S": { type: "item", code: "game:stick", quantity: 3 },
 		},
 		name: "bigbag",
@@ -15,7 +15,7 @@
 	{
 		ingredientPattern: "TST,_B_",
 		ingredients: {
-			"T": { type: "item", code: "*", allowedVariants: ["game:papyrustops", "game:cattailtops" ,"triodiascariosabundle", "palmleaf-trachycarpusfortunei", "bolboschoenusmaritimusbundle", "coconuthusk", "phormiumtenaxbundle"], quantity: 3 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 3 },
 			"S": { type: "item", code: "game:stick", quantity: 3 },
 			"B": { type: "item", code: "game:basket", quantity: 1 },
 		},
