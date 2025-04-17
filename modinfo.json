@@ -2,9 +2,9 @@
   "Type": 1,
   "TextureSize": 32,
   "Name": "Hampers And BigBags by Cheva",
-  "Version": "0.1.26",
+  "Version": "0.1.28",
   "NetworkVersion": null,
-  "Description": "Hamper And BigBag (4&6 slots)\nt2(6&9 slots) and t3(12&18 slots)",
+  "Description": "Hamper And BigBag (4&6 slots)\nt2(6&9 slots) and t3(12&18 slots)\nFriendly to FloralZones",
   "Website": "",
   "ModID": "bigbag",
   "Authors": [
