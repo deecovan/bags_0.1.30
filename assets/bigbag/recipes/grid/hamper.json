@@ -3,7 +3,7 @@
 		ingredientPattern: "T_T,T_T,TTT",
 		enabled: true,
 		ingredients: {
-			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 2 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"palmleaf"], quantity: 2 },
 		},
 		name: "hamper",
 		width: 3,
@@ -14,7 +14,7 @@
 	{
 		ingredientPattern: "T_T,_B_",
 		ingredients: {
-			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"*palmleaf*"], quantity: 2 },
+			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"palmleaf"], quantity: 2 },
 			"B": { type: "item", code: "game:basket", quantity: 1 },
 		},
 		name: "hamper",
