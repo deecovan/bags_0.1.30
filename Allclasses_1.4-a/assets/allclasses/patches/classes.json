@@ -10,8 +10,8 @@
 			{ "type": "item","code": "game:clothes-face-survivor" },
 			{ "type": "item", "code": "game:clothes-foot-survivor" },
 			{ "type": "item","code": "game:clothes-waist-sturdy-leather-belt" },
-			{ "type": "item", "code": "clothes-arm-leather-bracers" }
-			{ "type": "item", "code": "game:clothes-hand-leather-gloves" }
+			{ "type": "item", "code": "clothes-arm-leather-bracers" },
+			{ "type": "item", "code": "game:clothes-hand-leather-gloves" },
 			{ "type": "item", "code": "game:clothes-upperbody-hunter-shirt" },
 			{ "type": "item", "code": "game:clothes-upperbodyover-hunter-coat" },
 			{ "type": "item", "code": "game:clothes-lowerbody-hunter-leggings" },
