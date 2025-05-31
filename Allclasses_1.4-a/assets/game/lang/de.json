@@ -1,0 +1,249 @@
+{
+    "characterclass-super": "Super",
+    "characterclass-alchemyst": "Alchemist",
+    "characterclass-artisan": "Handwerker",
+    "characterclass-chef": "Koch",
+    "characterclass-homesteader": "Siedler",
+    "characterclass-lumberjack": "Holzfäller",
+    "characterclass-mason": "Maurer",
+    "characterclass-merchant": "Händler",
+    "characterclass-miner": "Bergmann",
+    "characterclass-mystic": "Mystiker",
+    "characterclass-ranger": "Waldläufer",
+    "characterclass-smith": "Schmied",
+    "characterclass-medic": "Sanitäter",
+    "characterclass-tinker": "Tüftler",
+  
+    "characterdesc-alchemyst": "<font color=\"#99c9f9\"><i>Verschiedene chemische Verbindungen zieren deine Regale - gesammelt und in deinem Geist katalogisiert. Einige Kräuter hängen zum Trocknen, um später zu Pulver verarbeitet zu werden - bereit, mit Flüssigkeiten kombiniert zu werden und eine separate Transformation zu durchlaufen. Deine trockenen Hände, die von deiner Arbeit gezeichnet sind, spüren eine Energie in den Substanzen um dich herum. Eine aus scheinbar gewöhnlichen Materialien gewonnene Potenz ist beinahe Magie, wenn du sie anwendest.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Alchemist - und die Grenzen definierst du neu.</i></font><br><br>",
+    "characterdesc-artisan": "<font color=\"#99c9f9\"><i>Das Leben summt in der Erde. Du spürst sein Wesen - feucht - zwischen deinen Fingern. Es ist weich, tief und wärmt dein Herz, wenn du deine Hände mit seiner Substanz füllst. Während die Konturen einer noch unerfüllten Form vom Geist in die Fingerspitzen fließen, findest du sie. Das kreative Herz schlägt, und sein Design fließt durch deine Adern. Der formlosen Masse vor dir wird ein Zweck eingehaucht, den du bestimmst.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Handwerker - und dieses Reich ist dein, um es zu formen.</i></font><br><br>",
+    "characterdesc-chef": "<font color=\"#99c9f9\"><i>Du bist ein Alchemist des Essens, ein Künstler der Küche. Deine Hände schneiden, rühren und kneten mit einer Geschicklichkeit, die nur von deinem scharfen Gaumen übertroffen wird. Jedes Gewürz, jede Zutat hat seinen Platz in deinem kulinarischen Universum, und in deinem Kopf dreht sich alles um Geschmack und Textur. Die Hitze des Herdes, der Duft des Garens, das sind die Rhythmen deines Lebens.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Koch - und dein Teller ist deine Leinwand.</i></font><br><br>",
+    "characterdesc-homesteader": "<font color=\"#99c9f9\"><i>Die Felder sprechen zu dir, die Erde flüstert ihre Geheimnisse. Du bist ein Kind des Landes, ein Hüter von Samen und Ernte. Dein Leben ist ein Zyklus von Aussaat, Wachstum und Ernte. Du fühlst die Jahreszeiten tief in deiner Seele und arbeitest im Einklang mit der Natur, um Nahrung, Schutz und Leben zu schaffen.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Siedler - und die Erde ist dein Verbündeter.</i></font><br><br>",
+    "characterdesc-lumberjack": "<font color=\"#99c9f9\"><i>Die Wälder sind dein Zuhause, und das Echo deiner Axt ist wie Musik für deine Ohren. Die Bäume, die dich umgeben, sind sowohl Ressource als auch Verantwortung. Du kennst ihre Stärke und ihre Schwächen, und du respektierst das Gleichgewicht des Lebens, das sie repräsentieren. Mit jedem Schlag deiner Axt formst du die Wildnis und schaffst Raum für Neues.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Holzfäller - und die Natur ist deine Werkstatt.</i></font><br><br>",
+    "characterdesc-mason": "<font color=\"#99c9f9\"><i>Stein und Mörtel, Hammer und Meisel - dies sind die Werkzeuge, die deine Welt formen. Du siehst die Struktur in der scheinbaren Unordnung, die Möglichkeiten in der Masse von Rohmaterial. Dein Geist arbeitet wie ein Architekt, deine Hände wie ein Bildhauer. Deine Werke sind langlebig, gebaut, um die Zeit zu überdauern.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Maurer - und die Welt ist dein Monument.</i></font><br><br>",
+    "characterdesc-merchant": "<font color=\"#99c9f9\"><i>Scharfsinnig und mit einem Auge für Qualität weiß der Händler, wie man die Waren anderer nimmt und mit Gewinn verkauft. Während er die von anderen Klassen hergestellten Waren verkaufen kann, ist der Händler selbst schlecht darin, eigene Produkte herzustellen und ist stark auf andere Handwerker angewiesen. Eine Beziehung zwischen einem Händler und einem Handwerker kann für beide Seiten vorteilhaft sein. Trotz ihrer mangelnden Fertigkeiten im Handwerk werden Händler oft in Gemeinschaften willkommen geheißen, da sie mehr Münzen ins Spiel bringen können.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Händler - und die Wirtschaft des Reiches liegt in deiner Hand!</font></i></font><br><br>",
+    "characterdesc-miner": "<font color=\"#99c9f9\"><i>Die harten, unerbittlichen Gesichter der Erde unter deinen Füßen sind kein Hindernis, sondern eine Einladung. Während die Oberfläche der Welt durch Jahrtausende geformt wurde, gibst du ihr mit deinem Mut und deiner Entschlossenheit einen Zweck. Während die Berge emporragen, erzählen sie dir Geschichten über die Welt unter der Oberfläche. Dieser Ruf zum Zweck lauscht aufmerksam; die Erde zu kennen, für jede Geschichte, die sie zu erzählen hat.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Bergmann - und die Geheimnisse des Reiches gehören dir.</i></font><br><br>",
+    "characterdesc-mystic": "<font color=\"#99c9f9\"><i>Ich muss die Geheimnisse um jeden Preis bewahren. Der Mystiker ist verantwortlich für das Streben nach Wissen in all seinen Formen und fügt es der Stadtbibliothek hinzu, die er vehement schützt. In diesem Streben versucht er, alle Formen der Magie zu meistern und verlorene Folianten und magische Artefakte aus den wilden Ländern jenseits der Stadtmauern zu sammeln.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Mystiker - und die Geheimnisse des Reiches gehören dir, um sie zu entdecken!</i></font><br><br>",
+    "characterdesc-ranger": "<font color=\"#99c9f9\"><i>Ein Ruf liegt im Wind. Der Duft darauf zeigt dir dein Ziel und seine Schwächen. Mit verengten Augen und einem langsamen Rhythmus in deiner Brust beruhigst und stabilisierst du dich. Der natürlichen Ordnung gehorchend findet das Ziel seinen Frieden im Boden. Während es in deinen Händen ruht, dankst du ihm für die Gaben, die es zu geben hat, und lässt keinen Moment ungenutzt.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Waldläufer - und die natürliche Ordnung liegt in deiner Hand, sie zu bewahren.</i></font><br><br>",
+    "characterdesc-smith": "<font color=\"#99c9f9\"><i>In das Glühen der Glut zu starren, bringt dir eine Wärme, die ein Lagerfeuer nicht erreichen kann. Der feste Griff deines Werkstücks und der Wille, ihm die gewünschte Form zu geben. Während das Werkstück Gestalt annimmt, kühlt es in der frischen Luft ab. Diese Form lebt nun in diesem Zustand weiter. Dass es aus den Glut des Schmiedefeuers geboren wurde, hat deinen Willen mit der Realität auf eine Weise verbunden, die keine andere Aufgabe leisten kann.\n</i></font><font color=\"#c69c29\"><br>Du bist ein Schmied - und das Erz der Welt findet in deinen Händen Leben.</i></font><br><br>",
+    "characterdesc-medic": "<font color=\"#99c9f9\"><i>Ein Stich in der Wunde, ein Tropfen Medizin, eine sanfte Berührung auf pulsierender Haut. Deine Hände gleiten mit Präzision, während du die Fäden des Lebens wieder zusammennähst.<br>Welche Heiltränke und Verbände wirst du als nächstes wählen, um die Verletzten zurück ins Leben zu bringen? Jeder Patient, der geht, ist ein Zeugnis deiner Hingabe.</i></font><font color=\"#c69c29\"><br>Du bist ein Sanitäter - und du bringst Heilung dorthin, wo sie am dringendsten benötigt wird.</font><br><br>",
+    "characterdesc-tinker": "<font color=\"#99c9f9\"><i>Während sich das Pergament deines Geistes entrollt, formen Striche und Punkte aus schwarzer Tinte Linien. Die wahren Maße des Plans benötigen Zeit, und in den Berechnungen wirst du Antworten finden. Eine Vermutung, die verzerrte Zeit erklärt: ~ 'Jedes Quäntchen ist messbar. Diese Welt enthält keine Geheimnisse - nur eine Reihe von Variablen, die noch korrekt analysiert werden müssen. Reich mir mein Skizzenpad, und ich erkläre es dir.'\n</i></font><font color=\"#c69c29\"><br>Du bist ein Tüftler - und keine Herausforderung ist zu komplex.</i></font><br><br>",
+
+    "trait-stitch_doctor": "<font color=\"#c69c29\">• Nähdoktor</font>",
+    "traitname-stitch_doctor": "Nähdoktor",
+    "traitdesc-stitch_doctor": "Kann <a href=\"handbooksearch://sewing kit or tailored gamb\">Nähsets und maßgeschneiderte</a> Gambeson-Rüstung herstellen",
+
+    "trait-mercantile": "<font color=\"#c69c29\">• Handel</font>",
+    "traitname-mercantile": "Handel",
+    "traitdesc-mercantile": "Exklusive herstellbare <a href=\"handbooksearch://Pirate gold\">Piratengoldmünzen</a> oder <a href=\"handbooksearch://rusty gear\">Rostige Zahnräder</a>",
+
+    "trait-transmutation": "<font color=\"#c69c29\">• Transmutation</font>",
+    "traitname-transmutation": "Transmutation",
+    "traitdesc-transmutation": "Exklusive herstellbare <a href=\"handbooksearch://sulfur chunk\">Schwefelstücke</a>",
+
+    "trait-prospector": "<font color=\"#c69c29\">• Prospektor</font>",
+    "traitname-prospector": "Prospektor",
+    "traitdesc-prospector": "Stellt günstigere <a href=\"handbooksearch://Stone blasting bomb\">Steinbomben</a> her, hat ein primitives <a href=\"handbooksearch://blasting powder\">Sprengpulver</a>-Rezept und kann helle, wasserdichte <a href=\"handbooksearch://mining lantern\">Laternen</a> herstellen",
+
+    "trait-artifice": "<font color=\"#c69c29\">• Kunstfertigkeit</font>",
+    "traitname-artifice": "Kunstfertigkeit",
+    "traitdesc-artifice": "Kann <a href=\"handbooksearch://carpet\">Teppiche</a> herstellen und einige <a href=\"handbooksearch://painting (family) or painting (iris) or painting (woman)\">Gemälde</a> anfertigen.",
+
+    "trait-transcription": "<font color=\"#c69c29\">• Abschrift</font>",
+    "traitname-transcription": "Abschrift",
+    "traitdesc-transcription": "Kann <a href=\"handbooksearch://carpet\">kleine Teppiche</a> und <a href=\"handbooksearch://parchment\">Pergament</a> aus Schilfrohr, Papyrus und Stroh herstellen sowie einen <a href=\"handbooksearch://Red Admiral\">Schmetterling</a> basteln.",
+
+    "trait-culinary": "<font color=\"#c69c29\">• Kulinarisch</font>",
+    "traitname-culinary": "Kulinarisch",
+    "traitdesc-culinary": "Kann verschiedene <a href=\"handbooksearch://metal cooking pot\">Metallkochtöpfe</a> herstellen und herkömmliches Dörrfleisch wie <a href=\"handbooksearch://vintage beef\">Vintage-Rindfleisch</a> zubereiten.",
+
+    "trait-pioneer": "<font color=\"#c69c29\">• Pionier</font>",
+    "traitname-pioneer": "Pionier",
+    "traitdesc-pioneer": "Kann <a href=\"handbooksearch://seeds\">Samen</a> aus Produkten extrahieren, <a href=\"handbooksearch://high fertility soil\">fruchtbaren Boden</a> und <a href=\"handbooksearch://soil booster\">Bodenverbesserer</a> herstellen, die die Bodenfruchtbarkeit erhöhen.",
+
+
+        "trait-sentry": "<font color=\"#c69c29\">• Wächter</font>",
+        "traitname-sentry": "Wächter",
+        "traitdesc-sentry": "Kann <a href=\"handbooksearch://bow\">Bögen</a> und <a href=\"handbooksearch://crude arrow\">Pfeile</a> herstellen.",
+    
+        "trait-surgeon": "<font color=\"#c69c29\">• Feldsanitäter</font>",
+        "traitname-surgeon": "Feldsanitäter",
+        "traitdesc-surgeon": "Kann <a href=\"handbooksearch://Grass-flower poultice\">Verbände aus Gras und Blumen</a> herstellen.",
+    
+        "trait-crafty": "<font color=\"#c69c29\">• Geschickt</font>",
+        "traitname-crafty": "Geschickt",
+        "traitdesc-crafty": "Kann <a href=\"handbooksearch://metal parts\">Metallteile</a>, einen <a href=\"handbooksearch://Tuning Spear\">getunten Speer</a> herstellen und <a href=\"handbooksearch://scrap weapon kit\">Schrottwaffen</a>, <a href=\"handbooksearch://chute\">Rutschen</a> und <a href=\"handbooksearch://angled gears\">mechanische Teile</a> effizienter anfertigen.",
+    
+        "trait-greenthumb": "<font color=\"#c69c29\">• Grüner Daumen</font>",
+        "traitname-greenthumb": "Grüner Daumen",
+        "traitdesc-greenthumb": "Kann <a href=\"handbooksearch://seeds\">Samen</a> aus Erzeugnissen extrahieren, <a href=\"handbooksearch://terra preta\">nährstoffreiche Erde</a> und <a href=\"handbooksearch://soil booster\">Bodenverstärker</a> herstellen, die die Bodenfruchtbarkeit erhöhen.",
+    
+        "trait-mercenary": "<font color=\"#c69c29\">• Söldner</font>",
+        "traitname-mercenary": "Söldner",
+        "traitdesc-mercenary": "Kann <a href=\"handbooksearch://tools\">Werkzeuge</a> herstellen, um <a href=\"handbooksearch://forlorn hope\">Forlorn-Hope-Rüstungen</a> und <a href=\"handbooksearch://blackguard\">Blackguard-Rüstungen</a> sowie <a href=\"handbooksearch://blackguard shortsword\">Kurzschwerter</a> und <a href=\"handbooksearch://blackguard shield\">Schilde</a> zu reparieren oder zu fertigen.",
+    
+        "trait-carpenter": "<font color=\"#c69c29\">• Zimmermann</font>",
+        "traitname-carpenter": "Zimmermann",
+        "traitdesc-carpenter": "Kann <a href=\"handbooksearch://sleek door\">glatte Türen</a>, <a href=\"handbooksearch://wagon wheel\">Wagenräder</a> und <a href=\"handbooksearch://wallpaper\">Tapeten</a> herstellen sowie günstigere <a href=\"handbooksearch://firewood\">Brennholz</a>, <a href=\"handbooksearch://board\">Bretter</a> und <a href=\"handbooksearch://stick\">Stöcke</a> anfertigen.",
+    
+        "trait-mason": "<font color=\"#c69c29\">• Maurer</font>",
+        "traitname-mason": "Maurer",
+        "traitdesc-mason": "Stellt <a href=\"handbooksearch://mortar\">Mörtel</a>, <a href=\"handbooksearch://plaster (plain)\">Putz</a>, <a href=\"handbooksearch://unfired refractory\">feuerfeste Materialien</a> und andere <a href=\"handbooksearch://Raw fire clay brick\">rohe Ziegel</a> günstiger her, kann direkt <a href=\"handbooksearch://ashlar block\">Steinziegel</a> aus Steinen herstellen und hat Zugang zu <a href=\"handbooksearch://brown clay brick\">braunen Tonziegeln</a>.",
+    
+        "trait-smith": "<font color=\"#c69c29\">• Schmied</font>",
+        "traitname-smith": "Schmied",
+        "traitdesc-smith": "Kann <a href=\"handbooksearch://tools\">Werkzeugsets</a> verwenden, um Rüstungen und Schilde zu reparieren, <a href=\"handbooksearch://metal pan\">Metallpfannen</a> herzustellen sowie günstigere <a href=\"handbooksearch://ore blasting\">Erzsprengbomben</a> und <a href=\"handbooksearch://blasting powder\">Sprengpulver</a> zu fertigen.",
+    
+        "trait-sharpeye": "<font color=\"#84ff84\">• Adlerauge</font>",
+        "trait-quick": "<font color=\"#84ff84\">• Flinke Hände</font>",
+        "trait-exhausted": "<font color=\"#ff8484\">• Erschöpft</font>",
+        "trait-inaccurate": "<font color=\"#ff8484\">• Ungenau</font>",
+    
+        "charattribute-rangedWeaponsDamage-0.25": "+25% Schaden durch Fernkampfwaffen",
+        "charattribute-rangedWeaponsDamage-0.5": "+50% Schaden durch Fernkampfwaffen",
+        "charattribute-rangedWeaponsDamage-1": "+100% Schaden durch Fernkampfwaffen",
+        "charattribute-rangedWeaponsDamage--0.25": "-25% Schaden durch Fernkampfwaffen",
+        "charattribute-rangedWeaponsDamage--0.35": "-35% Schaden durch Fernkampfwaffen",
+    
+        "charattribute-rangedWeaponsAcc-0.25": "+25% Genauigkeit bei Fernkampfwaffen",
+        "charattribute-rangedWeaponsAcc-0.5": "+50% Genauigkeit bei Fernkampfwaffen",
+        "charattribute-rangedWeaponsAcc--0.02": "-20% Genauigkeit bei Fernkampfwaffen",
+        "charattribute-rangedWeaponsAcc-1": "Klasse mit höchster Genauigkeit.",
+    
+        "charattribute-rangedWeaponsSpeed-1": "+100% schnellere Fernkampfwaffen",
+        "charattribute-rangedWeaponsSpeed-0.25": "+25% schnellere Fernkampfwaffen",
+        "charattribute-rangedWeaponsSpeed--0.3": "-30% langsamere Fernkampfwaffen",
+        "charattribute-rangedWeaponsSpeed--0.15": "-15% langsamere Fernkampfwaffen",
+    
+        "charattribute-bowDrawingStrength--0.35": "-35% Geschwindigkeit des Projektils",
+        "charattribute-bowDrawingStrength-0.5": "+50% Geschwindigkeit des Projektils",
+        "charattribute-bowDrawingStrength-0.15": "+15% Geschwindigkeit des Projektils",
+        "charattribute-bowDrawingStrength-0.25": "+25% Geschwindigkeit des Projektils",
+    
+        "trait-defender": "<font color=\"#84ff84\">• Verteidiger</font>",
+        "trait-clumsy": "<font color=\"#ff8484\">• Ungeschickt</font>",
+
+            "charattribute-meleeWeaponsDamage-0.1": "+10% Nahkampfschaden",
+            "charattribute-meleeWeaponsDamage-0.25": "+25% Nahkampfschaden",
+            "charattribute-meleeWeaponsDamage--0.2": "-20% Nahkampfschaden",
+            "charattribute-meleeWeaponsDamage--0.25": "-25% Nahkampfschaden",
+            "charattribute-meleeWeaponsDamage-0.5": "+50% Nahkampfschaden",
+        
+            "charattribute-armorDurabilityLoss--0.5": "+50% Rüstungsbeständigkeit",
+            "charattribute-armorDurabilityLoss--0.25": "+25% Rüstungsbeständigkeit",
+            "charattribute-armorDurabilityLoss--0.2": "+20% Rüstungsbeständigkeit",
+            "charattribute-armorDurabilityLoss-0.25": "-25% Rüstungsbeständigkeit",
+            "charattribute-armorDurabilityLoss-0.5": "-50% Rüstungsbeständigkeit",
+        
+            "charattribute-armorWalkSpeedAffectedness--0.2": "+20% weniger Bewegungsstrafe durch Rüstung",
+            "charattribute-armorWalkSpeedAffectedness--0.25": "+25% weniger Bewegungsstrafe durch Rüstung",
+            "charattribute-armorWalkSpeedAffectedness--0.5": "+50% weniger Bewegungsstrafe durch Rüstung",
+        
+            "trait-butcher": "<font color=\"#84ff84\">• Metzger</font>",
+            "trait-scavenger": "<font color=\"#84ff84\">• Plünderer</font>",
+        
+            "trait-squeamish": "<font color=\"#ff8484\">• Zimperlich</font>",
+        
+            "charattribute-animalLootDropRate--0.25": "-25% Beute von Tieren",
+            "charattribute-animalLootDropRate-0.15": "+15% Beute von Tieren",
+            "charattribute-animalLootDropRate-0.25": "+25% Beute von Tieren",
+            "charattribute-animalLootDropRate-0.5": "+50% Beute von Tieren",
+        
+            "charattribute-animalHarvestingSpeed--0.75": "+75% schnelleres Ernten von Tieren",
+            "charattribute-animalHarvestingSpeed--0.5": "+50% schnelleres Ernten von Tieren",
+            "charattribute-animalHarvestingSpeed--0.25": "+25% schnelleres Ernten von Tieren",
+            "charattribute-animalHarvestingSpeed-0.15": "-15% langsameres Ernten von Tieren",
+            "charattribute-animalHarvestingSpeed-0.1": "-10% langsameres Ernten von Tieren",
+        
+            "charattribute-forageDropRate-0.25": "+25% Chance auf zusätzlichen Sammelertrag",
+            "charattribute-forageDropRate-0.3": "+30% Chance auf zusätzlichen Sammelertrag",
+            "charattribute-forageDropRate-0.5": "+50% Chance auf zusätzlichen Sammelertrag",
+            "charattribute-forageDropRate--0.2": "-20% Chance auf geringere oder keine Sammelerträge",
+            "charattribute-forageDropRate--0.15": "-15% Chance auf geringere oder keine Sammelerträge",
+        
+            "charattribute-wildCropDropRate-0.2": "+20% Ertrag bei Wildpflanzen",
+            "charattribute-wildCropDropRate-0.25": "+25% Ertrag bei Wildpflanzen",
+            "charattribute-wildCropDropRate-0.5": "+50% Ertrag bei Wildpflanzen",
+            "charattribute-wildCropDropRate--0.15": "-15% Ertrag bei Wildpflanzen",
+            "charattribute-wildCropDropRate--0.2": "-20% Ertrag bei Wildpflanzen",
+        
+            "trait-gearhead": "<font color=\"#84ff84\">• Mechanikfan</font>",
+        
+            "charattribute-temporalGearDropRate-2": "Verdoppelte Chance auf Zeitgetriebe",
+            "charattribute-rustyGearDropRate-2": "Verdoppelte Chance auf rostige Zahnräder",
+            "charattribute-vesselContentsDropRate-0.35": "+35% Beute aus Gefäßen",
+            "charattribute-vesselContentsDropRate--0.2": "-20% Beute aus Gefäßen",
+            "charattribute-wholeVesselLootChance-0.25": "25% Chance auf unbeschädigte Gefäße",
+        
+            "trait-sneaky": "<font color=\"#84ff84\">• Schleichend</font>",
+            "trait-heavyfooted": "<font color=\"#ff8484\">• Schwerfüßig</font>",
+        
+            "charattribute-walkspeed-0.1": "+10% Gehgeschwindigkeit",
+            "charattribute-walkspeed-0.15": "+15% Gehgeschwindigkeit",
+            "charattribute-walkspeed-0.2": "+20% Gehgeschwindigkeit",
+        
+            "charattribute-animalSeekingRange--0.25": "-25% Reichweite der Tierwahrnehmung",
+            "charattribute-animalSeekingRange--0.6": "-60% Reichweite der Tierwahrnehmung",
+            "charattribute-animalSeekingRange-0.2": "+20% Reichweite der Tierwahrnehmung",
+        
+            "trait-miner": "<font color=\"#84ff84\">• Bergarbeiter</font>",
+            "trait-rockhound": "<font color=\"#84ff84\">• Gesteinsliebhaber</font>",
+            "trait-fleetfooted": "<font color=\"#84ff84\">• Flink</font>",
+            "trait-sluggish": "<font color=\"#ff8484\">• Träge</font>",
+            "trait-rugged": "<font color=\"#84ff84\">• Robuster</font>",
+            "trait-weak": "<font color=\"#ff8484\">• Schwach</font>",
+            "trait-corrupted": "<font color=\"#ff8484\">• Verderbt</font>",
+            "trait-fragile": "<font color=\"#ff8484\">• Zerbrechlich</font>",
+            "trait-careless": "<font color=\"#ff8484\">• Unvorsichtig</font>",
+            "trait-petraphobia": "<font color=\"#ff8484\">• Petraphobie</font>",
+        
+            "charattribute-miningSpeedMul--0.25": "-25% Bergbaugeschwindigkeit",
+            "charattribute-miningSpeedMul-0.25": "+25% Bergbaugeschwindigkeit",
+            "charattribute-miningSpeedMul-0.5": "+50% Bergbaugeschwindigkeit",
+            "charattribute-miningSpeedMul-1": "+100% Bergbaugeschwindigkeit",
+        
+            "charattribute-maxhealthExtraPoints-5": "+5 Lebenspunkte",
+            "charattribute-maxhealthExtraPoints-10": "+10 Lebenspunkte",
+            "charattribute-maxhealthExtraPoints--2.5": "-2.5 Lebenspunkte",
+            "charattribute-maxhealthExtraPoints--3.5": "-3.5 Lebenspunkte",
+            "charattribute-maxhealthExtraPoints--5": "-5 Lebenspunkte",
+        
+            "charattribute-oreDropRate-0.4": "+50% erhöhte Chance auf doppeltes Erz",
+            "charattribute-oreDropRate-0.15": "+22.5% erhöhte Chance auf doppeltes Erz",
+            "charattribute-oreDropRate--0.2": "Keine Chance auf doppeltes Erz",
+            "charattribute-oreDropRate--0.1": "-12.5% verringerte Chance auf doppeltes Erz",
+        
+            "trait-fasting": "<font color=\"#84ff84\">• Fastend</font>",
+        
+            "trait-hungry": "<font color=\"#ff8484\">• Hungrig</font>",
+            "trait-starving": "<font color=\"#ff8484\">• Am Verhungern</font>",
+            "trait-healer": "<font color=\"#84ff84\">• Heiler</font>",
+            "trait-unwell": "<font color=\"#ff8484\">• Unwohl</font>",
+        
+            "charattribute-healingeffectivness-0.25": "+25% mehr Heilung",
+            "charattribute-healingeffectivness--0.25": "-25% weniger Heilung",
+            "charattribute-hungerrate-0.25": "+25% Hunger",
+            "charattribute-hungerrate-0.15": "+15% Hunger",
+            "charattribute-hungerrate-0.1": "+10% Hunger",
+            "charattribute-hungerrate--0.2": "-20% Hunger",
+        
+            "trait-override": "<font color=\"#84ff84\">• Überschreiben</font>",
+        
+            "trait-burner": "<font color=\"#84ff84\">• Verbrenner</font>",
+            "trait-lumberjack": "<font color=\"#84ff84\">• Holzfäller</font>",
+            "trait-farmer": "<font color=\"#84ff84\">• Bauer</font>",
+            "trait-cultivator": "<font color=\"#84ff84\">• Kultivator</font>",
+        
+            "charattribute-mechanicalsDamageMul-0.25": "+25% Schaden gegen Mechanik",
+            "charattribute-mechanicalsDamageMul-0.5": "+50% Schaden gegen Mechanik",
+
+"charattribute-temporalGearTLRepairCost--1": "Geringere Kosten für die Reparatur von Translokatoren",
+"charattribute-charcoalPileDropRate-0.35": "+35 % Chance, doppelte Holzkohle aus Holzkohlegrubenhaufen zu erhalten",
+
+"charattribute-woodDropRate-0.1": "+10 % Chance auf einen zusätzlichen Holzscheit",
+"charattribute-fruittreeDropRate-1": "Doppelte Obstbaumpfropfungen",
+"charattribute-treeseedDropRate-2": "Doppelte Baumsamen-Droprate",
+"charattribute-stickDropRate-0.5": "+50 % Chance, doppelte Stöcke aus Ästen zu erhalten",
+
+"charattribute-produceDropRate-0.3": "+30 % zusätzliche Erträge beim Ernten von gepflanzten Feldfrüchten",
+"charattribute-produceDropRate-0.2": "+20 % zusätzliche Erträge beim Ernten von gepflanzten Feldfrüchten"
+}

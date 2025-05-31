@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "side": "universal",
+  "modid": "allclasses",
+  "name": "Allclasses",
+  "description" : "Adds 13! new Classes with Super by Dee,\nHorde of New Traits and rebalancing the system.",
+  "authors": [
+    "DejFidOFF, Dee"
+  ],
+  "Contributors": ["Mr1k3, Gizmagus","Tisk","various others"],
+  "version": "1.3.4-a",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "gameversions": [ "1.20+" ]
+}

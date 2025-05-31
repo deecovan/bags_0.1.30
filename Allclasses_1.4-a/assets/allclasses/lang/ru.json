@@ -1,0 +1,75 @@
+{
+  "game:tabname-allclasses": "Allclasses",	
+
+  "allclasses:item-tools-simple": "Простые инструменты",
+  "allclasses:item-tools-basic": "Базовые инструменты",
+  "allclasses:itemdesc-tools-basic": "<font color=\"#ff9900\">Слишком слаб, чтобы ремонтировать пластинчатые доспехи</font>",
+  "allclasses:item-tools-standard": "Стандартные инструменты",
+  "allclasses:item-tools-advanced": "Продвинутые инструменты",
+  "allclasses:item-basicbooster": "Базовый грунтоукрепитель",
+  "allclasses:itemdesc-basicbooster": "Постоянно увеличивает все максимальные значения питательных веществ в почве на 20%",
+  "allclasses:item-qualitybooster": "Качественный грунтоукрепитель",
+  "allclasses:itemdesc-qualitybooster": "Постоянно увеличивает все максимальные показатели питательных веществ в почве на 40%",
+  "allclasses:item-poultice-grass-flower": "Припарка из цветков и травы",
+  
+  "allclasses:item-clothes-head-farm-hat": "Фермерская шляпа",
+  "allclasses:item-clothes-upperbody-lumberjack-shirt": "Рубашка дровосека",
+
+  
+  "allclasses:block-metalpan-copper": "Металлический рудопромывачный лоток из меди",
+  "allclasses:blockdesc-metalpan-copper": "Старательский лоток для поиска самородков",
+  "allclasses:block-metalpan-tinbronze": "Металлический рудопромывачный лоток из оловянной бронзы",
+  "allclasses:blockdesc-metalpan-tinbronze": "Истинный лоток для старателей позволяет находить минералы и увеличивает шанс найти самородки",
+  "allclasses:block-metalpan-iron": "Лоток старателя по железу",
+  "allclasses:blockdesc-metalpan-iron": "Супер-сковорода старателя, имеет самые высокие шансы найти самородки и многое другое!",
+
+  "allclasses:block-metalmininglantern-*": "Шахтный фонарь",
+  "allclasses:block-primitivemininglantern-*": "Простой шахтерский фонарь",
+
+  "allclasses:block-coppercookingpot-burned": "Медная кастрюля для приготовления пищи",
+  "allclasses:block-coppercookingpot-cooked": "Медный горшок с приготовленной пищей",
+  "allclasses:blockdesc-coppercookingpot-burned": "<font color=\"#00cc00\">Для новичков на кухне можно приготовить до 8 порций. </font><br><font color=\"#ff4d88\">Только для приготовления пищи!</font>",
+
+  "allclasses:block-bronzecookingpot-burned": "Висмуто-бронзовая кастрюля для приготовления пищи",
+  "allclasses:block-bronzecookingpot-cooked": "Висмуто-бронзовый горшок с приготовленной пищей",
+  "allclasses:blockdesc-bronzecookingpot-burned": "<font color=\"#00cc00\">Усовершенствованная бронзовая кастрюля для приготовления максимум 10 порций.</font><br><font color=\"#ff4d88\">Только для приготовления пищи!</font>",
+
+  "allclasses:block-ironcookingpot-burned": "Железная кастрюля для приготовления пищи",
+  "allclasses:block-ironcookingpot-cooked": "Железный горшок с приготовленной пищей",
+  "allclasses:blockdesc-ironcookingpot-burned": "<font color=\"#00cc00\">Теперь мы куда-то едем! Вы можете приготовить до 12 порций.</font><br><font color=\"#ff4d88\">Только для приготовления пищи!</font>",
+
+  "allclasses:block-meteoricironcookingpot-burned": "Метеоритная кастрюля для приготовления пищи",
+  "allclasses:block-meteoricironcookingpot-cooked": "Метеоритный горшок с приготовленной пищей",
+  "allclasses:blockdesc-meteoricironcookingpot-burned": "<font color=\"#00cc00\">Ты в порядке? Надеюсь, метеорит не попал в тебя. 14 порций. </font><br><font color=\"#ff4d88\">Только для приготовления пищи!</font>",
+
+  "allclasses:block-steelcookingpot-burned": "Стальная кастрюля для приготовления пищи",
+  "allclasses:block-steelcookingpot-cooked": "Стальной горшок с приготовленной пищей",
+  "allclasses:blockdesc-steelcookingpot-burned": "<font color=\"#00cc00\">Ооо, да вы теперь мастер-шеф. В этой кастрюле можно приготовить до 16 порций! </font><br><font color=\"#ff4d88\">Только для приготовления пищи!</font>",
+  
+  
+  "game:block-dirtyclaypot-tinbronze-empty": "Бронзовая кастрюля для приготовления пищи",
+  "game:block-dirtyclaypot-tinbronze-cooked": "Бронзовый горшок с вареным изделием",
+  "game:blockdesc-dirtyclaypot-tinbronze-empty": "<font color=\"#00cc00\">Для тех, кто хочет готовить гораздо больше. В этой кастрюле можно приготовить до 10 порций! </font><br><font color=\"#ffa64d\">Только для приготовления непищевых продуктов!/font><br>mod:allclasses",
+
+    "game:block-dirtyclaypot-blackbronze-empty": "Металлическая кастрюля из черной бронзы",
+    "game:block-dirtyclaypot-blackbronze-cooked": "Горшок из черной бронзы с вареным изделием",
+    "game:blockdesc-dirtyclaypot-blackbronze-empty": "<font color=\"#00cc00\">Вот это котелок! В этом котле можно приготовить до 20 порций!</font><br><font color=\"#ffa64d\">Только для приготовления непищевых продуктов!</font><br>mod:allclasses",
+
+
+
+"allclasses:block-goldplatedcookingpot-burned": "Позолоченная кастрюля",
+"allclasses:block-goldplatedcookingpot-cooked": "Позолоченный горшок с приготовленной едой",
+"allclasses:blockdesc-goldplatedcookingpot-burned": "<font color=\"#00cc00\">Ха, ты открыл бесконечную вселенную еды. В этой кастрюле можно приготовить до 20 порций!</font><br><font color=\"#ff4d88\">Только для приготовления пищи!</font>",
+
+
+"allclasses:blockdesc-coppercookingpot-cooked": "",
+"allclasses:blockdesc-bronzecookingpot-cooked": "",
+"allclasses:blockdesc-ironcookingpot-cooked": "",
+"allclasses:blockdesc-meteoricironcookingpot-cooked": "",
+"allclasses:blockdesc-steelcookingpot-cooked": "",
+"allclasses:blockdesc-goldplatedcookingpot-cooked": "",
+
+  "allclasses:block-copperfryingpan-burned": "Медная сковородка для жарки"
+
+
+}

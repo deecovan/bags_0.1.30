@@ -1,0 +1,251 @@
+{
+    "characterclass-super": "Super",
+    "characterclass-alchemyst": "Alchemyst",
+    "characterclass-artisan": "Remeselník",
+    "characterclass-chef": "Kuchár",
+    "characterclass-homesteader": "Hospodár",
+    "characterclass-lumberjack": "Drevorubač",
+    "characterclass-mason": "Murár",
+    "characterclass-merchant": "Obchodník",
+    "characterclass-miner": "Baník",
+    "characterclass-mystic": "Mystic",
+    "characterclass-ranger": "Ranger",
+    "characterclass-smith": "Kovár",
+    "characterclass-medic": "Medik",
+    "characterclass-tinker": "Technik",
+
+    
+        "characterdesc-alchemyst": "<font color=\"#99c9f9\"><i>Niekoľko chemických zlúčenín zdobí tvoje police - zozbieraných a uložených v tvojej mysli. Sušené bylinky čakajú na premenu na práškovú formu - aby sa neskôr skombinovali s tekutinami a podstúpili ďalšiu premenu. Tvoje suché ruky, hoci ošľahané prácou, cítia energiu v látkach okolo teba. Sila vyextrahovaná z inak obyčajných materiálov je takmer magická, keď ju aplikuješ.\n</i></font><font color=\"#c69c29\"><br>Si Alchymista - a hranice si definuješ sám.</i></font><br><br>",
+        "characterdesc-artisan": "<font color=\"#99c9f9\"><i>Život pulzuje v zemi. Cítiš jeho podstatu - vlhkú - medzi svojimi prstami. Je mäkká, hlboká a zahrieva tvoje srdce, keď napĺňaš ruky jej látkou. Keď sa kontúry nenaplneného tvaru prenesú z mysle do prstov, nájdu si ťa. Tvorivé srdce bije a jeho dizajn prúdi tvojimi žilami. Beztvárna masa pred tebou dostáva účel, ktorý si jej určil.\n</i></font><font color=\"#c69c29\"><br>Si Remeselník - a tento svet je tvojou hlinou.</i></font><br><br>",
+        "characterdesc-chef": "<font color=\"#99c9f9\"><i>Každá známa aróma, ktorá naplní vzduch, si zachováva tajomstvo dňa, kedy si ju prvýkrát pocítil. Tá zložitá zmes každého prísadu tvorí paletu tvojej mysle. Keď sa oheň zahreje na správnu teplotu, sústredíš sa na svoje nástroje a prípravu jedál pred tebou. Ako sa vzduch okolo teba zahrieva, vnútorný oheň žiari jasnejšie - a jedlo pred tebou ťa zahreje ešte viac.\n</i></font><font color=\"#c69c29\"><br>Si Šéfkuchár - a pán každej hostiny.</i></font><br><br>",
+        "characterdesc-homesteader": "<font color=\"#99c9f9\"><i>Roky sa rozprestierajú tak ďaleko ako polia na rovine. V každom z nich je nový plán, v každom mesiaci nová činnosť a v každom dni - okamih. Čas plynie pomaly. Úroda zeme je bohatá. Je to hojnosť prírody, vydaná len trpezlivým. Ako vietor prechádza cez úrodu, tak aj ty vdychuješ jej dar.\n</i></font><font color=\"#c69c29\"><br>Si Usadník - a tvoje polia sú bohaté.</i></font><br><br>",
+        "characterdesc-lumberjack": "<font color=\"#99c9f9\"><i>Pokojne stojíš medzi obrami a nachádzaš útechu pri ich nohách. Lôžko, ktoré si nazývaš domovom, je zdieľané medzi lesom a jeho obyvateľmi. Toto je tvoja rodina. Niektorým si dal život, iné čoskoro uložíš k odpočinku. Každý člen poskytuje významný príspevok svojmu opatrovateľovi. Každý osud, ktorý si už naplnil, alebo ešte len naplníš.\n</i></font><font color=\"#c69c29\"><br>Si Drevorubač - a divočina je tvojím najväčším zdrojom.</i></font><br><br>",
+        "characterdesc-mason": "<font color=\"#99c9f9\"><i>Vetrom ošľahaná mramorová nádrž. Základy, na ktorých táto štruktúra stojí. Čisté línie pretínajúce oblohu. Zdobené nosníky jemne vyčnievajúce z fasády budovy. Každý prvok rezonuje s presnosťou majstrovstva. Odvážne reprezentuje osobnosť svojho tvorcu. Ak stojí, serafom vytvorené, je to vyhlásenie. S tebou vedie rozhovor.\n</i></font><font color=\"#c69c29\"><br>Si Staviteľ - a každá stavba je tvojím plátnom.</i></font><br><br>",
+        "characterdesc-merchant": "<font color=\"#99c9f9\"><i>Bystrý a s ostrým okom pre kvalitu, Obchodník vie, ako premeniť cudzie tovary na zisk. Hoci dokáže predávať výrobky od iných remeselníkov, je žalostne neschopný vyrábať vlastné. Závisí preto od ostatných tvorcov. Vzťah medzi Obchodníkom a remeselníkom môže byť rovnako prospešný a napriek jeho nedostatkom v remesle je vítaný v komunitách, pretože prináša viac mincí.\n</i></font><font color=\"#c69c29\"><br>Si Obchodník - a ekonomika ríše je tvojou doménou!</font></i></font><br><br>",
+        "characterdesc-miner": "<font color=\"#99c9f9\"><i>Pevné tvrdé tváre zeme pod tvojimi nohami nie sú prekážkou - ale pozvánkou. Ako povrch sveta získava tvar po miléniách, ty mu dávaš účel svojou odvahou a odhodlaním. Keď hory stúpajú, rozprávajú ti príbehy sveta pod povrchom. Tento hlas k účelu pozorne počúva; aby si spoznal zem a každý príbeh, ktorý chce rozprávať.\n</i></font><font color=\"#c69c29\"><br>Si Baník - a tajomstvá ríše sú tvoje.</i></font><br><br>",
+        "characterdesc-mystic": "<font color=\"#99c9f9\"><i>Musím ochrániť tajomstvá za každú cenu.\nMystik je zodpovedný za získavanie vedomostí vo všetkých ich formách a ich pridávanie do mestskej knižnice, ktorú zúrivo chráni. V tomto úsilí sa snaží ovládať všetky formy mágie a zbierať stratené zvitky a magické artefakty z divočiny za mestskými hradbami.\n</i></font><font color=\"#c69c29\"><br>Si Mystik - a záhady ríše sú tvoje na objavovanie!</i></font><br><br>",
+        "characterdesc-ranger": "<font color=\"#99c9f9\"><i>Vo vetre znie volanie. Vôňa na ňom ti ukazuje tvoj cieľ a jeho slabosť. Oči zúžené, pomalý rytmus v hrudi ťa upokojuje a stabilizuje. Prírodný poriadok, ktorému sa podriaďuješ - a cieľ nachádza pokoj v zemi. Keď spočíva vo tvojich rukách, ďakuješ mu za dary, ktoré ti poskytne - a nič nepríde nazmar.\n</i></font><font color=\"#c69c29\"><br>Si Lovec - a prírodný poriadok je tvojou úlohou udržiavať.</i></font><br><br>",
+        "characterdesc-smith": "<font color=\"#99c9f9\"><i>Pohľad do žeravých uhlíkov prináša teplo, ktoré presahuje obyčajný oheň. Pevný úchop nad predmetom a vôľa dať mu formu, akú si praješ. Keď predmet naberá tvar, usadzuje sa v chladnom vzduchu. Tento tvar teraz žije svojou existenciou. To, že sa zrodil z uhlíkov tvojej výhnine, spája tvoje túžby s realitou spôsobom, aký žiadna iná činnosť nedokáže.\n</i></font><font color=\"#c69c29\"><br>Si Kováč - a rudy sveta ožívajú v tvojich rukách.</i></font><br><br>",
+        "characterdesc-medic": "<font color=\"#99c9f9\"><i>Jemné stehy rán, kvapka medicíny, citlivý dotyk na pulzujúcej pokožke. Tvoje ruky kĺžu s presnosťou, keď spájaš vlákna života späť dohromady.<br>Aké liečivé prípravky a obväzy zvolíš ďalej, aby si uzdravil ranených? Každý vyliečený pacient je dôkazom tvojej oddanosti.</i></font><font color=\"#c69c29\"><br>Si Liečiteľ - a prinášaš uzdravenie tam, kde je najviac potrebné.</font><br><br>",
+        "characterdesc-tinker": "<font color=\"#99c9f9\"><i>Keď sa pergamen tvojej mysle rozvíja, čiarky a bodky čierneho atramentu vytvárajú línie, skutočné meradlá plánu si vyžadujú čas, v kalkuláciách nachádzaš odpovede, návrh vysvetľuje skreslený čas. ~ 'Každá kvanta je merateľná. Tento svet neobsahuje záhady - iba súbor premenných, ktoré ešte neboli správne analyzované. Podaj mi môj zápisník a vysvetlím ti to.'\n</i></font><font color=\"#c69c29\"><br>Si Technik - a žiadna výzva nie je príliš zložitá.</i></font><br><br>",
+
+
+"trait-stitch_doctor": "<font color=\"#c69c29\">• Šič rán</font>",
+"traitname-stitch_doctor": "Šič rán",
+"traitdesc-stitch_doctor": "Dokáže vytvoriť <a href=\"handbooksearch://sewing kit or tailored gamb\">šijaciu súpravu a šité</a> prešívané brnenie",
+
+"trait-mercantile": "<font color=\"#c69c29\">• Obchodník</font>",
+"traitname-mercantile": "Obchodník",
+"traitdesc-mercantile": "Exkluzívne vyrába <a href=\"handbooksearch://Pirate gold\">pirátske zlaté mince</a> alebo <a href=\"handbooksearch://rusty gear\">zhrdzavené ozubené kolesá</a>",
+
+"trait-transmutation": "<font color=\"#c69c29\">• Transmutácia</font>",
+"traitname-transmutation": "Transmutácia",
+"traitdesc-transmutation": "Exkluzívne vyrába <a href=\"handbooksearch://sulfur chunk\">síru</a>",
+
+"trait-prospector": "<font color=\"#c69c29\">• Prospektor</font>",
+"traitname-prospector": "Prospektor",
+"traitdesc-prospector": "Vyrába lacnejšie <a href=\"handbooksearch://Stone blasting bomb\">kamenné bomby</a>, má primitívny recept na <a href=\"handbooksearch://blasting powder\">trhavý prášok</a> a dokáže vytvárať jasné, vodoodolné <a href=\"handbooksearch://mining lantern\">banícke lampy</a>",
+
+"trait-artifice": "<font color=\"#c69c29\">• Umelecké dielo</font>",
+"traitname-artifice": "Umelecké dielo",
+"traitdesc-artifice": "Schopnosť vyrábať <a href=\"handbooksearch://carpet\">koberce</a>, a tiež niektoré <a href=\"handbooksearch://painting (family) or painting (iris) or painting (woman)\">maľby</a>.",
+
+"trait-transcription": "<font color=\"#c69c29\">• Prepisovanie</font>",
+"traitname-transcription": "Prepisovanie",
+"traitdesc-transcription": "Dokáže vytvárať <a href=\"handbooksearch://carpet\">malé koberce</a>, tiež <a href=\"handbooksearch://parchment\">pergamen</a> z pálky, papyrusu a slamy a vyrobiť <a href=\"handbooksearch://Red Admiral\">motýľa</a>.",
+
+"trait-culinary": "<font color=\"#c69c29\">• Kulinár</font>",
+"traitname-culinary": "Kulinár",
+"traitdesc-culinary": "Dokáže vyrábať rôzne <a href=\"handbooksearch://metal cooking pot\">kovové hrnce</a> a pripravovať staromódne sušené <a href=\"handbooksearch://vintage beef\">hovädzie mäso</a>.",
+
+"trait-pioneer": "<font color=\"#c69c29\">• Priekopník</font>",
+"traitname-pioneer": "Priekopník",
+"traitdesc-pioneer": "Dokáže extrahovať <a href=\"handbooksearch://seeds\">semená</a> z plodín, vyrábať <a href=\"handbooksearch://high fertility soil\">úrodnú pôdu</a> a <a href=\"handbooksearch://soil booster\">posilňovače pôdy</a>, ktoré zlepšujú úrodnosť",
+
+"trait-sentry": "<font color=\"#c69c29\">• Strážca</font>",
+"traitname-sentry": "Strážca",
+"traitdesc-sentry": "Dokáže vyrábať <a href=\"handbooksearch://bow\">luky</a> a <a href=\"handbooksearch://crude arrow\">šípky</a>.",
+
+"trait-surgeon": "<font color=\"#c69c29\">• Poľný medik</font>",
+"traitname-surgeon": "Poľný medik",
+"traitdesc-surgeon": "Dokáže vyrábať <a href=\"handbooksearch://Grass-flower poultice\">obklady z trávy a kvetov</a>.",
+
+"trait-crafty": "<font color=\"#c69c29\">• Zručný</font>",
+"traitname-crafty": "Zručný",
+"traitdesc-crafty": "Dokáže vyrábať <a href=\"handbooksearch://metal parts\">kovové súčiastky</a>, <a href=\"handbooksearch://Tuning Spear\">naladené kopije</a>, efektívnejšie <a href=\"handbooksearch://scrap weapon kit\">zbraňové sady</a>, <a href=\"handbooksearch://chute\">sklzy</a> a <a href=\"handbooksearch://angled gears\">mechanické súčiastky</a>",
+
+"trait-greenthumb": "<font color=\"#c69c29\">• Zelený palec</font>",
+"traitname-greenthumb": "Zelený palec",
+"traitdesc-greenthumb": "Dokáže extrahovať <a href=\"handbooksearch://seeds\">semená</a> z plodín, vyrábať <a href=\"handbooksearch://terra preta\">bohatú pôdu</a> a <a href=\"handbooksearch://soil booster\">posilňovače pôdy</a>.",
+
+"trait-mercenary": "<font color=\"#c69c29\">• Žoldnier</font>",
+"traitname-mercenary": "Žoldnier",
+"traitdesc-mercenary": "Môže vyrábať <a href=\"handbooksearch://tools\">nástroje</a> na opravu/tvorbu <a href=\"handbooksearch://forlorn hope\">brnenia forlorn hope</a> a <a href=\"handbooksearch://blackguard\">blackguard brnenia</a> ako aj <a href=\"handbooksearch://blackguard shortsword\">krátke meče</a> a <a href=\"handbooksearch://blackguard shield\">štíty</a>.",
+
+"trait-carpenter": "<font color=\"#c69c29\">• Tesár</font>",
+"traitname-carpenter": "Tesár",
+"traitdesc-carpenter": "Dokáže vyrábať <a href=\"handbooksearch://sleek door\">hladké dvere</a>, <a href=\"handbooksearch://wagon wheel\">kolesá vozov</a>, <a href=\"handbooksearch://wallpaper\">tapety</a> a lacnejšie <a href=\"handbooksearch://firewood\">palivové drevo</a>, <a href=\"handbooksearch://board\">dosky</a> a <a href=\"handbooksearch://stick\">paličky</a>.",
+
+"trait-mason": "<font color=\"#c69c29\">• Murár</font>",
+"traitname-mason": "Murár",
+"traitdesc-mason": "Vyrába <a href=\"handbooksearch://mortar\">maltu</a>, <a href=\"handbooksearch://plaster (plain)\">omietku</a>, <a href=\"handbooksearch://unfired refractory\">žiaruvzdorné materiály</a> a iné <a href=\"handbooksearch://Raw fire clay brick\">tehly</a> lacnejšie, priamo vytvára <a href=\"handbooksearch://ashlar block\">kamenné tehly</a> a má prístup k <a href=\"handbooksearch://brown clay brick\">hnedým tehlám</a>.",
+
+"trait-smith": "<font color=\"#c69c29\">• Kováč</font>",
+"traitname-smith": "Kováč",
+"traitdesc-smith": "Dokáže používať <a href=\"handbooksearch://tools\">súpravy nástrojov</a> na opravu brnenia a štítov, vytvára <a href=\"handbooksearch://metal pan\">kovové panvice</a> a lacnejšie <a href=\"handbooksearch://ore blasting\">banícke bomby</a> a <a href=\"handbooksearch://blasting powder\">trhavý prášok</a>.",
+
+"trait-sharpeye": "<font color=\"#84ff84\">• Ostré oko</font>",
+"trait-quick": "<font color=\"#84ff84\">• Rýchle ruky</font>",
+"trait-exhausted": "<font color=\"#ff8484\">• Vyčerpaný</font>",
+"trait-inaccurate": "<font color=\"#ff8484\">• Nepresný</font>",
+
+"charattribute-rangedWeaponsDamage-0.25": "+25% poškodenie z diaľkových zbraní",
+"charattribute-rangedWeaponsDamage-0.5": "+50% poškodenie z diaľkových zbraní",
+"charattribute-rangedWeaponsDamage-1": "+100% poškodenie z diaľkových zbraní",
+"charattribute-rangedWeaponsDamage--0.25": "-25% poškodenie z diaľkových zbraní",
+"charattribute-rangedWeaponsDamage--0.35": "-35% poškodenie z diaľkových zbraní",
+
+"charattribute-rangedWeaponsAcc-0.25": "+25% presnosť diaľkových zbraní",
+"charattribute-rangedWeaponsAcc-0.5": "+50% presnosť diaľkových zbraní",
+"charattribute-rangedWeaponsAcc--0.02": "-20% presnosť diaľkových zbraní",
+"charattribute-rangedWeaponsAcc-1": "Najpresnejšia trieda.",
+
+"charattribute-rangedWeaponsSpeed-1": "+100% rýchlosť diaľkových zbraní",
+"charattribute-rangedWeaponsSpeed-0.25": "+25% rýchlosť diaľkových zbraní",
+"charattribute-rangedWeaponsSpeed--0.3": "-30% rýchlosť diaľkových zbraní",
+"charattribute-rangedWeaponsSpeed--0.15": "-15% rýchlosť diaľkových zbraní",
+
+"charattribute-bowDrawingStrength--0.35": "-35% rýchlosť projektilu",
+"charattribute-bowDrawingStrength-0.5": "+50% rýchlosť projektilu",
+"charattribute-bowDrawingStrength-0.15": "+15% rýchlosť projektilu",
+"charattribute-bowDrawingStrength-0.25": "+25% rýchlosť projektilu",
+
+"trait-defender": "<font color=\"#84ff84\">• Obranca</font>",
+
+"trait-clumsy": "<font color=\"#ff8484\">• Nemotorný</font>",
+
+"charattribute-meleeWeaponsDamage-0.1": "+10% poškodenie zblízka",
+"charattribute-meleeWeaponsDamage-0.25": "+25% poškodenie zblízka",
+"charattribute-meleeWeaponsDamage--0.2": "-20% poškodenie zblízka",
+"charattribute-meleeWeaponsDamage--0.25": "-25% poškodenie zblízka",
+"charattribute-meleeWeaponsDamage-0.5": "+50% poškodenie zblízka",
+
+"charattribute-armorDurabilityLoss--0.5": "+50% trvanlivosť brnenia",
+"charattribute-armorDurabilityLoss--0.25": "+25% trvanlivosť brnenia",
+"charattribute-armorDurabilityLoss--0.2": "+20% trvanlivosť brnenia",
+"charattribute-armorDurabilityLoss-0.25": "-25% trvanlivosť brnenia",
+"charattribute-armorDurabilityLoss-0.5": "-50% trvanlivosť brnenia",
+
+"charattribute-armorWalkSpeedAffectedness--0.2": "+20% menej penalizácie pohybu v brnení",
+"charattribute-armorWalkSpeedAffectedness--0.25": "+25% menej penalizácie pohybu v brnení",
+"charattribute-armorWalkSpeedAffectedness--0.5": "+50% menej penalizácie pohybu v brnení",
+
+"trait-butcher": "<font color=\"#84ff84\">• Mäsiar</font>",
+"trait-scavenger": "<font color=\"#84ff84\">• Zberač</font>",
+
+"trait-squeamish": "<font color=\"#ff8484\">• Citlivý</font>",
+
+"charattribute-animalLootDropRate--0.25": "-25% korisť zo zvierat",
+"charattribute-animalLootDropRate-0.15": "+15% korisť zo zvierat",
+"charattribute-animalLootDropRate-0.25": "+25% korisť zo zvierat",
+"charattribute-animalLootDropRate-0.5": "+50% korisť zo zvierat",
+
+"charattribute-animalHarvestingSpeed--0.75": "+75% rýchlosť spracovania zvierat",
+"charattribute-animalHarvestingSpeed--0.5": "+50% rýchlosť spracovania zvierat",
+"charattribute-animalHarvestingSpeed--0.25": "+25% rýchlosť spracovania zvierat",
+"charattribute-animalHarvestingSpeed-0.15": "-15% rýchlosť spracovania zvierat",
+"charattribute-animalHarvestingSpeed-0.1": "-10% rýchlosť spracovania zvierat",
+
+"charattribute-forageDropRate-0.25": "+25% šanca na extra zber",
+"charattribute-forageDropRate-0.3": "+30% šanca na extra zber",
+"charattribute-forageDropRate-0.5": "+50% šanca na extra zber",
+"charattribute-forageDropRate--0.2": "20% šanca na menej/žiadny zber",
+"charattribute-forageDropRate--0.15": "15% šanca na menej/žiadny zber",
+
+"charattribute-wildCropDropRate-0.2": "+20% úroda divokých plodín",
+"charattribute-wildCropDropRate-0.25": "+25% úroda divokých plodín",
+"charattribute-wildCropDropRate-0.5": "+50% úroda divokých plodín",
+"charattribute-wildCropDropRate--0.15": "-15% úroda divokých plodín",
+"charattribute-wildCropDropRate--0.2": "-20% úroda divokých plodín",
+    
+  "trait-gearhead": "<font color=\"#84ff84\">• Technik</font>",
+
+"charattribute-temporalGearDropRate-2": "dvojnásobná šanca na získanie temporálneho ozubeného kolesa",
+"charattribute-rustyGearDropRate-2": "dvojnásobná šanca na získanie hrdzavého ozubeného kolesa",
+"charattribute-vesselContentsDropRate-0.35": "+35% korisť z poškodených nádob",
+"charattribute-vesselContentsDropRate--0.2": "-20% korisť z poškodených nádob",
+"charattribute-wholeVesselLootChance-0.25": "25% šanca na získanie celej poškodenej nádoby",
+
+"trait-sneaky": "<font color=\"#84ff84\">• Nenápadný</font>",
+"trait-heavyfooted": "<font color=\"#ff8484\">• Ťažkopádny</font>",
+
+"charattribute-walkspeed-0.1": "+10% rýchlosť chôdze",
+"charattribute-walkspeed-0.15": "+15% rýchlosť chôdze",
+"charattribute-walkspeed-0.2": "+20% rýchlosť chôdze",
+
+"charattribute-animalSeekingRange--0.25": "-25% dosah detekcie zvierat",
+"charattribute-animalSeekingRange--0.6": "-60% dosah detekcie zvierat",
+"charattribute-animalSeekingRange-0.2": "+20% dosah detekcie zvierat",
+
+"trait-miner": "<font color=\"#84ff84\">• Baník</font>",
+"trait-rockhound": "<font color=\"#84ff84\">• Skalný prieskumník</font>",
+"trait-fleetfooted": "<font color=\"#84ff84\">• Mrštný</font>",
+"trait-sluggish": "<font color=\"#ff8484\">• Lenivý</font>",
+"trait-rugged": "<font color=\"#84ff84\">• Odolný</font>",
+"trait-weak": "<font color=\"#ff8484\">• Slabý</font>",
+"trait-corrupted": "<font color=\"#ff8484\">• Skazený</font>",
+"trait-fragile": "<font color=\"#ff8484\">• Krehký</font>",
+"trait-careless": "<font color=\"#ff8484\">• Neopatrný</font>",
+"trait-petraphobia": "<font color=\"#ff8484\">• Petrafóbia</font>",
+
+"charattribute-miningSpeedMul--0.25": "-25% rýchlosť ťažby",
+"charattribute-miningSpeedMul-0.25": "+25% rýchlosť ťažby",
+"charattribute-miningSpeedMul-0.5": "+50% rýchlosť ťažby",
+"charattribute-miningSpeedMul-1": "+100% rýchlosť ťažby",
+
+"charattribute-maxhealthExtraPoints-5": "+5 bodov zdravia",
+"charattribute-maxhealthExtraPoints-10": "+10 bodov zdravia",
+"charattribute-maxhealthExtraPoints--2.5": "-2.5 bodov zdravia",
+"charattribute-maxhealthExtraPoints--3.5": "-3.5 bodov zdravia",
+"charattribute-maxhealthExtraPoints--5": "-5 bodov zdravia",
+
+"charattribute-oreDropRate-0.4": "+50% dodatočná šanca na dvojnásobnú rudu",
+"charattribute-oreDropRate-0.15": "+22.5% dodatočná šanca na dvojnásobnú rudu",
+"charattribute-oreDropRate--0.2": "Žiadna šanca na dvojnásobnú rudu",
+"charattribute-oreDropRate--0.1": "-12.5% znížená šanca na dvojnásobnú rudu",
+
+"trait-fasting": "<font color=\"#84ff84\">• Pôstnik</font>",
+
+"trait-hungry": "<font color=\"#ff8484\">• Hladný</font>",
+"trait-starving": "<font color=\"#ff8484\">• Hladujúci</font>",
+"trait-healer": "<font color=\"#84ff84\">• Liečiteľ</font>",
+"trait-unwell": "<font color=\"#ff8484\">• Chorľavý</font>",
+
+"charattribute-healingeffectivness-0.25": "+25% viac zdravia z liečenia",
+"charattribute-healingeffectivness--0.25": "-25% menej zdravia z liečenia",
+"charattribute-hungerrate-0.25": "+25% rýchlosť hladu",
+"charattribute-hungerrate-0.15": "+15% rýchlosť hladu",
+"charattribute-hungerrate-0.1": "+10% rýchlosť hladu",
+"charattribute-hungerrate--0.2": "-20% rýchlosť hladu",
+
+"trait-override": "<font color=\"#84ff84\">• Nadradený</font>",
+
+"trait-burner": "<font color=\"#84ff84\">• Spaľovač</font>",
+"trait-lumberjack": "<font color=\"#84ff84\">• Drevorubač</font>",
+"trait-farmer": "<font color=\"#84ff84\">• Farmár</font>",
+"trait-cultivator": "<font color=\"#84ff84\">• Pestovateľ</font>",
+
+"charattribute-mechanicalsDamageMul-0.25": "+25% poškodenie proti mechanickým nepriateľom",
+"charattribute-mechanicalsDamageMul-0.5": "+50% poškodenie proti mechanickým nepriateľom",
+"charattribute-temporalGearTLRepairCost--1": "Nižšie náklady na opravu translokátorov",
+"charattribute-charcoalPileDropRate-0.35": "+35% šanca na dvojnásobné uhlie z uhlových jám",
+
+"charattribute-woodDropRate-0.1": "+10% šanca na extra kus dreva",
+"charattribute-fruittreeDropRate-1": "Dvojnásobný počet štepení ovocných stromov",
+"charattribute-treeseedDropRate-2": "Dvojnásobná šanca na získanie semien stromov",
+"charattribute-stickDropRate-0.5": "+50% šanca na dvojnásobné vetvičky z konárov",
+
+"charattribute-produceDropRate-0.3": "+30% extra úrody pri zbere zasadených plodín",
+"charattribute-produceDropRate-0.2": "+20% extra úrody pri zbere zasadených plodín"
+  
+}

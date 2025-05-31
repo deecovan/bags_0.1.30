@@ -1,0 +1,74 @@
+{
+    "game:tabname-allclasses": "Allar flokkarnir",
+
+    "allclasses:item-tools-simple": "Einföld verkfæri",
+    "allclasses:item-tools-basic": "Grunn verkfæri",
+    "allclasses:itemdesc-tools-basic": "<font color=\"#ff9900\">Of veik til að gera við plötu brynjur</font>",
+    "allclasses:item-tools-standard": "Venjuleg verkfæri",
+    "allclasses:item-tools-advanced": "Ítarleg verkfæri",
+    "allclasses:item-basicbooster": "Grunn jarðefnaörvandi efni",
+    "allclasses:itemdesc-basicbooster": "Eykur varanlega hámarks næringargildi allra jarðarefna um 20%",
+    "allclasses:item-qualitybooster": "Hágæða jarðefnaörvandi efni",
+    "allclasses:itemdesc-qualitybooster": "Eykur varanlega hámarks næringargildi allra jarðarefna um 40%",
+    "allclasses:item-poultice-grass-flower": "Grasa- og blómasmyrsl",
+    
+    "allclasses:item-clothes-head-farm-hat": "Bændahattur",
+    "allclasses:item-clothes-upperbody-lumberjack-shirt": "Skyrta skógarhöggsmanns",
+    
+    "allclasses:block-metalpan-copper": "Kopar málmpanna",
+    "allclasses:blockdesc-metalpan-copper": "Panna fyrir málmleitara með auknum líkum á að finna málmklumpa",
+    "allclasses:block-metalpan-tinbronze": "Tinnbrons málmpanna",
+    "allclasses:blockdesc-metalpan-tinbronze": "Alvöru málmpanna sem getur fundið málma og hefur auknar líkur á að finna málmklumpa",
+    "allclasses:block-metalpan-iron": "Járnleitarpönnu",
+    "allclasses:blockdesc-metalpan-iron": "Panna ofurleitarmanna, hefur mestar líkur á að finna gullmola og margt fleira!",
+
+    "allclasses:block-metalmininglantern-*": "Námuljósker",
+    "allclasses:block-primitivemininglantern-*": "Einfalt námuljósker",
+    
+    "allclasses:block-coppercookingpot-burned": "Kopar eldunarpottur",
+    "allclasses:block-coppercookingpot-cooked": "Koparpottur með elduðum mat",
+    "allclasses:blockdesc-coppercookingpot-burned": "<font color=\"#00cc00\">Fyrir byrjendur í eldhúsinu. Getur eldað allt að 8 skammta. Aðeins fyrir mat!</font>",
+    
+    "allclasses:block-bronzecookingpot-burned": "Bismútbrons eldunarpottur",
+    "allclasses:block-bronzecookingpot-cooked": "Bismútbrons pottur með elduðum mat",
+    "allclasses:blockdesc-bronzecookingpot-burned": "<font color=\"#00cc00\">Framúrskarandi brons eldunarpottur fyrir allt að 10 skammta. Aðeins fyrir mat!</font>",
+    
+    "allclasses:block-ironcookingpot-burned": "Járn eldunarpottur",
+    "allclasses:block-ironcookingpot-cooked": "Járnpottur með elduðum mat",
+    "allclasses:blockdesc-ironcookingpot-burned": "<font color=\"#00cc00\">Nú erum við að ná árangri! Getur eldað allt að 12 skammta. Aðeins fyrir mat!</font>",
+    
+    "allclasses:block-meteoricironcookingpot-burned": "Meteorit málm eldunarpottur",
+    "allclasses:block-meteoricironcookingpot-cooked": "Meteorit pottur með elduðum mat",
+    "allclasses:blockdesc-meteoricironcookingpot-burned": "<font color=\"#00cc00\">Ertu í lagi? Ég vona að loftsteinn hafi ekki lent á þér. Nú getur þú eldað 14 skammta. Aðeins fyrir mat!</font>",
+    
+    "allclasses:block-steelcookingpot-burned": "Stál eldunarpottur",
+    "allclasses:block-steelcookingpot-cooked": "Stálpottur með elduðum mat",
+    "allclasses:blockdesc-steelcookingpot-burned": "<font color=\"#00cc00\">Já, þú ert orðinn meistarakokkur. Þessi pottur getur eldað allt að 16 skammta! Aðeins fyrir mat!</font>",
+    
+      "game:block-dirtyclaypot-tinbronze-empty": "Tinnbrons leirker",
+      "game:block-dirtyclaypot-tinbronze-cooked": "Tinnbrons leirker með elduðum mat",
+      "game:blockdesc-dirtyclaypot-tinbronze-empty": "<font color=\"#00cc00\">Fyrir þá sem vilja elda miklu meira. Þú getur útbúið allt að 10 skammta í þessu potti!</font><br><font color=\"#ffa64d\">Aðeins fyrir óætan mat!</font><br>mod:allclasses",
+      
+  
+        "game:block-dirtyclaypot-blackbronze-empty": "Svart-brons málmpottur",
+        "game:block-dirtyclaypot-blackbronze-cooked": "Svart-brons pottur með soðnum mat",
+        "game:blockdesc-dirtyclaypot-blackbronze-empty": "<font color=\"#00cc00\">Þetta er alvöru ketill! Þú getur útbúið allt að 20 skammta í þessum potti!</font><br><font color=\"#ffa64d\">Aðeins fyrir matargerð sem ekki er ætluð til neyslu!</font><br>mod:allclasses",
+    
+
+      "allclasses:block-goldplatedcookingpot-burned": "Gullhúðaður eldunarpottur",
+      "allclasses:block-goldplatedcookingpot-cooked": "Gullhúðaður eldunarpottur með elduðum mat",
+      "allclasses:blockdesc-goldplatedcookingpot-burned": "<font color=\"#00cc00\">Ha, þú hefur opnað endalausan heim matargerðar. Þú getur útbúið allt að 20 skammta í þessum potti!</font><br><font color=\"#ff4d88\">Aðeins fyrir matargerð!</font>",
+  
+      "allclasses:blockdesc-coppercookingpot-cooked": "",
+"allclasses:blockdesc-bronzecookingpot-cooked": "",
+"allclasses:blockdesc-ironcookingpot-cooked": "",
+"allclasses:blockdesc-meteoricironcookingpot-cooked": "",
+"allclasses:blockdesc-steelcookingpot-cooked": "",
+"allclasses:blockdesc-goldplatedcookingpot-cooked": "",
+
+    "allclasses:block-copperfryingpan-burned": "Kopar steikingarpanna"
+  }
+  
+  
+  
+  

@@ -1,0 +1,77 @@
+{
+    "game:tabname-allclasses": "Wszystkie klasy",
+
+    "allclasses:item-tools-simple": "Proste narzędzia",
+    "allclasses:item-tools-basic": "Podstawowe narzędzia",
+    "allclasses:itemdesc-tools-basic": "<font color=\"#ff9900\">Zbyt słabe, aby naprawić pancerze płytowe</font>",
+    "allclasses:item-tools-standard": "Standardowe narzędzia",
+    "allclasses:item-tools-advanced": "Zaawansowane narzędzia",
+    "allclasses:item-basicbooster": "Podstawowy wzmacniacz gleby",
+    "allclasses:itemdesc-basicbooster": "Na stałe zwiększa maksymalne wartości składników odżywczych gleby o 20%",
+    "allclasses:item-qualitybooster": "Wzmacniacz gleby o wysokiej jakości",
+    "allclasses:itemdesc-qualitybooster": "Na stałe zwiększa maksymalne wartości składników odżywczych gleby o 40%",
+    "allclasses:item-poultice-grass-flower": "Okład z trawy i kwiatów",
+    
+    "allclasses:item-clothes-head-farm-hat": "Kapelusz rolniczy",
+    "allclasses:item-clothes-upperbody-lumberjack-shirt": "Koszula drwala",
+    
+    "allclasses:block-metalpan-copper": "Miedziana patelnia do poszukiwań",
+    "allclasses:blockdesc-metalpan-copper": "Patelnia dla poszukiwaczy skarbów, zwiększa szanse na znalezienie bryłek.",
+    "allclasses:block-metalpan-tinbronze": "Patelnia z brązu cynowego",
+    "allclasses:blockdesc-metalpan-tinbronze": "Profesjonalna patelnia poszukiwacza, umożliwia znalezienie minerałów i zwiększa szanse na znalezienie bryłek.",
+    "allclasses:block-metalpan-iron": "Miska poszukiwacza żelaza",
+     "allclasses:blockdesc-metalpan-iron": "Supermiska poszukiwacza, ma największą szansę na znalezienie samorodków i wiele więcej!",
+     
+    "allclasses:block-metalmininglantern-*": "Latarnia górnicza",
+    "allclasses:block-primitivemininglantern-*": "Prosta latarnia górnicza",
+    
+    "allclasses:block-coppercookingpot-burned": "Miedziany garnek do gotowania",
+    "allclasses:block-coppercookingpot-cooked": "Miedziany garnek z ugotowanym jedzeniem",
+    "allclasses:blockdesc-coppercookingpot-burned": "<font color=\"#00cc00\">Dla początkujących w kuchni, gotuje do 8 porcji. Tylko do jedzenia!</font>",
+    
+    "allclasses:block-bronzecookingpot-burned": "Garnek do gotowania z brązu cynowego",
+    "allclasses:block-bronzecookingpot-cooked": "Garnek z brązu cynowego z ugotowanym jedzeniem",
+    "allclasses:blockdesc-bronzecookingpot-burned": "<font color=\"#00cc00\">Zaawansowany garnek z brązu, gotuje do 10 porcji. Tylko do jedzenia!</font>",
+    
+    "allclasses:block-ironcookingpot-burned": "Żelazny garnek do gotowania",
+    "allclasses:block-ironcookingpot-cooked": "Żelazny garnek z ugotowanym jedzeniem",
+    "allclasses:blockdesc-ironcookingpot-burned": "<font color=\"#00cc00\">Idziesz w dobrym kierunku! Możesz gotować do 12 porcji jedzenia. Tylko do jedzenia!</font>",
+    
+    "allclasses:block-meteoricironcookingpot-burned": "Garnek do gotowania z meteorytowego żelaza",
+    "allclasses:block-meteoricironcookingpot-cooked": "Garnek z meteorytowego żelaza z ugotowanym jedzeniem",
+    "allclasses:blockdesc-meteoricironcookingpot-burned": "<font color=\"#00cc00\">Wszystko w porządku? Mam nadzieję, że meteoryt Cię nie trafił. Teraz gotujesz do 14 porcji. Tylko do jedzenia!</font>",
+    
+    "allclasses:block-steelcookingpot-burned": "Stalowy garnek do gotowania",
+    "allclasses:block-steelcookingpot-cooked": "Stalowy garnek z ugotowanym jedzeniem",
+    "allclasses:blockdesc-steelcookingpot-burned": "<font color=\"#00cc00\">Ooo tak, jesteś teraz mistrzem kuchni! Możesz gotować do 16 porcji w tym garnku. Tylko do jedzenia!</font>",
+    
+      "game:block-dirtyclaypot-tinbronze-empty": "Cynowo-brązowy garnek gliniany",
+      "game:block-dirtyclaypot-tinbronze-cooked": "Ugotowany cynowo-brązowy garnek",
+      "game:blockdesc-dirtyclaypot-tinbronze-empty": "<font color=\"#00cc00\">Dla osób, które chcą gotować dużo więcej. W tym garnku możesz przygotować do 10 porcji!</font><br><font color=\"#ffa64d\">Tylko do gotowania rzeczy niejadalnych!</font><br>mod:allclasses",
+      
+        "game:block-dirtyclaypot-blackbronze-empty": "Czarno-brązowy metalowy garnek",
+        "game:block-dirtyclaypot-blackbronze-cooked": "Czarno-brązowy garnek z gotowanym jedzeniem",
+        "game:blockdesc-dirtyclaypot-blackbronze-empty": "<font color=\"#00cc00\">To dopiero kocioł! W tym garnku możesz przygotować aż 20 porcji!</font><br><font color=\"#ffa64d\">Tylko do gotowania produktów nieżywnościowych!</font><br>mod:allclasses",
+  
+
+      "allclasses:block-goldplatedcookingpot-burned": "Złocony garnek do gotowania",
+      "allclasses:block-goldplatedcookingpot-cooked": "Złocony garnek z ugotowanym jedzeniem",
+      "allclasses:blockdesc-goldplatedcookingpot-burned": "<font color=\"#00cc00\">Odkryłeś nieskończony wszechświat jedzenia. W tym garnku możesz przygotować do 20 porcji!</font><br><font color=\"#ff4d88\">Tylko do gotowania jedzenia!</font>",
+    
+    "allclasses:blockdesc-coppercookingpot-cooked": "",
+"allclasses:blockdesc-bronzecookingpot-cooked": "",
+"allclasses:blockdesc-ironcookingpot-cooked": "",
+"allclasses:blockdesc-meteoricironcookingpot-cooked": "",
+"allclasses:blockdesc-steelcookingpot-cooked": "",
+"allclasses:blockdesc-goldplatedcookingpot-cooked": "",
+    
+    
+      "allclasses:block-copperfryingpan-burned": "Miedziana patelnia"
+  }
+  
+  
+  
+  
+  
+  
+  

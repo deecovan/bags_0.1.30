@@ -1,0 +1,75 @@
+{
+    "game:tabname-allclasses": "すべてのクラス",
+
+    "allclasses:item-tools-simple": "シンプルなツール",
+    "allclasses:item-tools-basic": "基本的なツール",
+    "allclasses:itemdesc-tools-basic": "<font color=\"#ff9900\">プレートアーマーの修理には弱すぎます</font>",
+    "allclasses:item-tools-standard": "標準ツール",
+    "allclasses:item-tools-advanced": "高度なツール",
+    "allclasses:item-basicbooster": "基本土壌ブースター",
+    "allclasses:itemdesc-basicbooster": "土壌の最大栄養値を20%永久に増加させます",
+    "allclasses:item-qualitybooster": "高品質土壌ブースター",
+    "allclasses:itemdesc-qualitybooster": "土壌の最大栄養値を40%永久に増加させます",
+    "allclasses:item-poultice-grass-flower": "草と花の湿布",
+    
+    "allclasses:item-clothes-head-farm-hat": "農場の帽子",
+    "allclasses:item-clothes-upperbody-lumberjack-shirt": "木こりのシャツ",
+    
+    "allclasses:block-metalpan-copper": "銅製の金属パン",
+    "allclasses:blockdesc-metalpan-copper": "鉱石探し用のパン。金塊を見つける確率が向上します。",
+    "allclasses:block-metalpan-tinbronze": "青銅製の金属パン",
+    "allclasses:blockdesc-metalpan-tinbronze": "プロの鉱石探し用パン。鉱石を見つけられ、金塊を見つける確率が向上します。",
+    "allclasses:block-metalpan-iron": "鉄の探鉱者の鍋",
+    "allclasses:blockdesc-metalpan-iron": "スーパー探鉱者のフライパン。ナゲットなどを見つける可能性が最も高くなります。",
+
+    "allclasses:block-metalmininglantern-*": "採掘用ランタン",
+    "allclasses:block-primitivemininglantern-*": "シンプルな採掘用ランタン",
+    
+    "allclasses:block-coppercookingpot-burned": "銅製の料理鍋",
+    "allclasses:block-coppercookingpot-cooked": "料理済みの銅鍋",
+    "allclasses:blockdesc-coppercookingpot-burned": "<font color=\"#00cc00\">初心者向けの料理鍋。最大8人分を調理できます。食べ物専用！</font>",
+    
+    "allclasses:block-bronzecookingpot-burned": "青銅製の料理鍋",
+    "allclasses:block-bronzecookingpot-cooked": "料理済みの青銅鍋",
+    "allclasses:blockdesc-bronzecookingpot-burned": "<font color=\"#00cc00\">上級者向けの青銅製料理鍋。最大10人分を調理できます。食べ物専用！</font>",
+    
+    "allclasses:block-ironcookingpot-burned": "鉄製の料理鍋",
+    "allclasses:block-ironcookingpot-cooked": "料理済みの鉄鍋",
+    "allclasses:blockdesc-ironcookingpot-burned": "<font color=\"#00cc00\">進歩しましたね！最大12人分の料理が可能です。食べ物専用！</font>",
+    
+    "allclasses:block-meteoricironcookingpot-burned": "隕鉄製の料理鍋",
+    "allclasses:block-meteoricironcookingpot-cooked": "料理済みの隕鉄鍋",
+    "allclasses:blockdesc-meteoricironcookingpot-burned": "<font color=\"#00cc00\">大丈夫ですか？隕石が当たっていないといいのですが。今や14人分が調理可能です。食べ物専用！</font>",
+    
+    "allclasses:block-steelcookingpot-burned": "鋼鉄製の料理鍋",
+    "allclasses:block-steelcookingpot-cooked": "料理済みの鋼鉄鍋",
+    "allclasses:blockdesc-steelcookingpot-burned": "<font color=\"#00cc00\">おお、ついにマスターシェフですね。この鍋で最大16人分の料理ができます！食べ物専用！</font>",
+    
+      "game:block-dirtyclaypot-tinbronze-empty": "スズ青銅製の土鍋",
+      "game:block-dirtyclaypot-tinbronze-cooked": "調理済みのスズ青銅鍋",
+      "game:blockdesc-dirtyclaypot-tinbronze-empty": "<font color=\"#00cc00\">もっとたくさん料理したい人のために。この鍋では最大10人前作れます！</font><br><font color=\"#ffa64d\">食べられない料理専用です！</font><br>mod:allclasses",
+      
+        "game:block-dirtyclaypot-blackbronze-empty": "黒銅の金属鍋",
+        "game:block-dirtyclaypot-blackbronze-cooked": "黒銅の調理済み鍋",
+        "game:blockdesc-dirtyclaypot-blackbronze-empty": "<font color=\"#00cc00\">これはまさに大鍋です！ この鍋では最大20人分を調理できます！</font><br><font color=\"#ffa64d\">食品以外の調理専用です！</font><br>mod:allclasses",
+    
+
+      "allclasses:block-goldplatedcookingpot-burned": "金メッキ調理鍋",
+      "allclasses:block-goldplatedcookingpot-cooked": "調理済みの金メッキ鍋",
+      "allclasses:blockdesc-goldplatedcookingpot-burned": "<font color=\"#00cc00\">ああ、無限の料理の宇宙を解き放ちました。この鍋では最大20人前作れます！</font><br><font color=\"#ff4d88\">食べられる料理専用です！</font>",
+  
+      "allclasses:blockdesc-coppercookingpot-cooked": "",
+"allclasses:blockdesc-bronzecookingpot-cooked": "",
+"allclasses:blockdesc-ironcookingpot-cooked": "",
+"allclasses:blockdesc-meteoricironcookingpot-cooked": "",
+"allclasses:blockdesc-steelcookingpot-cooked": "",
+"allclasses:blockdesc-goldplatedcookingpot-cooked": "",
+
+    "allclasses:block-copperfryingpan-burned": "銅製のフライパン"
+  }
+  
+  
+  
+  
+  
+  

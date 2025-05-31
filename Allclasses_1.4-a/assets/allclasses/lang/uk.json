@@ -1,0 +1,75 @@
+{
+  "game:tabname-allclasses": "Allclasses",
+
+  "allclasses:item-tools-simple": "Прості інструменти",
+  "allclasses:item-tools-basic": "Базові інструменти",
+  "allclasses:itemdesc-tools-basic": "<font color=\"#ff9900\">Надто слабкі для ремонту пластинчастої броні</font>",
+  "allclasses:item-tools-standard": "Стандартні інструменти",
+  "allclasses:item-tools-advanced": "Просунуті інструменти",
+  "allclasses:item-basicbooster": "Базовий ґрунтовий стимулятор",
+  "allclasses:itemdesc-basicbooster": "Збільшує макс. значення поживних речовин у ґрунті на 20% (постійний ефект)",
+  "allclasses:item-qualitybooster": "Якісний ґрунтовий стимулятор",
+  "allclasses:itemdesc-qualitybooster": "Збільшує макс. значення поживних речовин у ґрунті на 40% (постійний ефект)",
+  "allclasses:item-poultice-grass-flower": "Трав'яна припарка",
+    
+  "allclasses:item-clothes-head-farm-hat": "Фермерський капелюх",
+  "allclasses:item-clothes-upperbody-lumberjack-shirt": "Сорочка лісоруба",
+
+
+  "allclasses:block-metalpan-copper": "Мідний лоток",
+  "allclasses:blockdesc-metalpan-copper": "Лоток золотошукача, підвищує шанс знайти самородки",
+  "allclasses:block-metalpan-tinbronze": "Олов'яно-бронзовий лоток",
+  "allclasses:blockdesc-metalpan-tinbronze": "Вдалий лоток, може знаходити мінерали і підвищує шанс знайти самородки",
+  "allclasses:block-metalpan-iron": "Сковорода шукача заліза",
+  "allclasses:blockdesc-metalpan-iron": "Суперкаструля старателя, має найвищий шанс знайти самородки та багато іншого!",
+
+  "allclasses:block-metalmininglantern-*": "Шахтарський ліхтар",
+  "allclasses:block-primitivemininglantern-*": "Простий шахтарський ліхтар",
+    
+  "allclasses:block-coppercookingpot-burned": "Мідний казанок",
+  "allclasses:block-coppercookingpot-cooked": "Мідний казанок для готового",
+  "allclasses:blockdesc-coppercookingpot-burned": "<font color=\"#00cc00\">Для новачків на кухні, готується до 8 порцій. </font><br><font color=\"#ff4d88\">Лише для їжі!</font>",
+    
+  "allclasses:block-bronzecookingpot-burned": "Вісмутово-бронзовий казанок",
+  "allclasses:block-bronzecookingpot-cooked": "Вісмутово-бронзовий казанок для готового",
+  "allclasses:blockdesc-bronzecookingpot-burned": "<font color=\"#00cc00\">Більш просунутий казанок, готується до 10 порций. </font><br><font color=\"#ff4d88\">Лише для їжі!</font>",
+    
+  "allclasses:block-ironcookingpot-burned": "Залізний казанок",
+  "allclasses:block-ironcookingpot-cooked": "Залізний казанок для готового",
+  "allclasses:blockdesc-ironcookingpot-burned": "<font color=\"#00cc00\">Це вже справжнє куховарство! Можна готувати до 12 порцій. </font><br><font color=\"#ff4d88\">Лише для їжі!</font>",
+    
+  "allclasses:block-meteoricironcookingpot-burned": "Казанок з метеоритного заліза",
+  "allclasses:block-meteoricironcookingpot-cooked": "Казанок з метеоритного заліза для готового",
+  "allclasses:blockdesc-meteoricironcookingpot-burned": "<font color=\"#00cc00\">У порядку? Сподіваюся, метеорит вас не зачепив. Можна готувати до 14 порцій. </font><br><font color=\"#ff4d88\">Лише для їжі!</font>",
+    
+  "allclasses:block-steelcookingpot-burned": "Сталевий казанок",
+  "allclasses:block-steelcookingpot-cooked": "Сталевий казанок для готового",
+  "allclasses:blockdesc-steelcookingpot-burned": "<font color=\"#00cc00\">З цим ви справжній шеф-кухар! Можна готувати до 16 порцій. </font><br><font color=\"#ff4d88\">Лише для їжі!</font>",
+    
+
+  "game:block-dirtyclaypot-tinbronze-empty": "Олов'яно-бронзовий горщик",
+  "game:block-dirtyclaypot-tinbronze-cooked": "Олов'яно-бронзовий горщик для готового",
+  "game:blockdesc-dirtyclaypot-tinbronze-empty": "<font color=\"#00cc00\">Для чималого куховарства. Можна готувати до 10 порцій. </font><br><font color=\"#ffa64d\">Лише для нехарчового!</font><br>mod:allclasses",
+      
+    "game:block-dirtyclaypot-blackbronze-empty": "Чорно-бронзовий горщик",
+    "game:block-dirtyclaypot-blackbronze-cooked": "Чорно-бронзовий горщик для готового",
+    "game:blockdesc-dirtyclaypot-blackbronze-empty": "<font color=\"#00cc00\">Оце насправді потужний горщик! Можна готувати до 20 порцій. </font><br><font color=\"#ffa64d\">Лише для нехарчового!</font><br>mod:allclasses",
+    
+
+
+"allclasses:block-goldplatedcookingpot-burned": "Позолочений казанок",
+"allclasses:block-goldplatedcookingpot-cooked": "Позолочений казанок для готового",
+"allclasses:blockdesc-goldplatedcookingpot-burned": "<font color=\"#00cc00\">З цим відкривається неосяжний кулінарний світ. Можна готувати до 20 порцій. </font><br><font color=\"#ff4d88\">Лише для їжі!</font>",
+
+
+"allclasses:blockdesc-coppercookingpot-cooked": "",
+"allclasses:blockdesc-bronzecookingpot-cooked": "",
+"allclasses:blockdesc-ironcookingpot-cooked": "",
+"allclasses:blockdesc-meteoricironcookingpot-cooked": "",
+"allclasses:blockdesc-steelcookingpot-cooked": "",
+"allclasses:blockdesc-goldplatedcookingpot-cooked": "",
+
+  "allclasses:block-copperfryingpan-burned": "Мідна сковорідка для смаження"
+  
+
+}

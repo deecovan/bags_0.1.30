@@ -1,0 +1,772 @@
+[
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "_super_",
+      "type": "positive",
+      "attributes": {
+        "animalHarvestingSpeed": -2,
+        "animalLootDropRate": 0.25,
+        "animalSeekingRange": -0.25,
+        "armorDurabilityLoss": -0.25,
+        "armorWalkSpeedAffectedness": -0.25,
+        "bowDrawingStrength": 0.25,
+        "charcoalPileDropRate": 1,
+        "forageDropRate": 0.25,
+        "fruittreeDropRate": 1,
+        "healingeffectivness": 0.25,
+        "hungerrate": -0.2,
+        "maxhealthExtraPoints": 2.5,
+        "meleeWeaponsDamage": 0.25,
+        "miningSpeedMul": 0.25,
+        "oreDropRate": 0.5,
+        "produceDropRate": 0.5,
+        "rangedWeaponsAcc": 0.25,
+        "rangedWeaponsDamage": 0.25,
+        "rangedWeaponsSpeed": 0.25,
+        "rustyGearDropRate": 2,
+        "stickDropRate": 0.5,
+        "temporalGearDropRate": 2,
+        "temporalGearTLRepairCost": -1,
+        "treeseedDropRate": 2,
+        "vesselContentsDropRate": 1,
+        "walkspeed": 0.2,
+        "wholeVesselLootChance": 0.5,
+        "wildCropDropRate": 0.5,
+        "woodDropRate": 0.2,
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "merciless",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "transmutation",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "mercantile",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "thrifty",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "prospector",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "crafty",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "greenthumb",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "pioneer",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "mercenary",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "carpenter",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "mason",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "smith",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "clothier",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "artifice",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "culinary",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "transcription",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "sentry",
+      "type": "positive",
+      "attributes": {}
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "sharpeye",
+      "type": "positive",
+      "attributes": {
+        "rangedWeaponsDamage": 1,
+        "bowDrawingStrength": 0.5,
+        "rangedWeaponsSpeed": 0.25,
+        "rangedWeaponsAcc": 1
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "quick",
+      "type": "positive",
+      "attributes": {
+        "rangedWeaponsDamage": 0.25,
+        "bowDrawingStrength": 0.15,
+        "rangedWeaponsSpeed": 1,
+        "rangedWeaponsAcc": 0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "focused",
+      "type": "positive",
+      "attributes": {
+        "rangedWeaponsDamage": 0.25,
+        "bowDrawingStrength": 0.25,
+        "rangedWeaponsSpeed": 0.25,
+        "rangedWeaponsAcc": 0.5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "exhausted",
+      "type": "negative",
+      "attributes": {
+        "rangedWeaponsDamage": -0.35,
+        "bowDrawingStrength": -0.35,
+        "rangedWeaponsAcc": -0.02,
+        "rangedWeaponsSpeed": -0.3
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "inaccurate",
+      "type": "negative",
+      "attributes": {
+        "rangedWeaponsDamage": -0.25,
+        "rangedWeaponsAcc": -0.02,
+        "bowDrawingStrength": -0.25,
+        "rangedWeaponsSpeed": -0.15
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "soldier",
+      "type": "positive",
+      "attributes": {
+        "meleeWeaponsDamage": 0.5,
+        "armorDurabilityLoss": -0.25,
+        "armorWalkSpeedAffectedness": -0.25,
+        "healingeffectivness": 0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "defender",
+      "type": "positive",
+      "attributes": {
+        "meleeWeaponsDamage": 0.1,
+        "armorDurabilityLoss": -0.2,
+        "armorWalkSpeedAffectedness": -0.2,
+        "hungerrate": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "farsighted",
+      "type": "negative",
+      "attributes": {
+        "meleeWeaponsDamage": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "mender",
+      "type": "positive",
+      "attributes": {
+        "armorDurabilityLoss": -0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "clumsy",
+      "type": "negative",
+      "attributes": {
+        "armorDurabilityLoss": 0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "nervous",
+      "type": "negative",
+      "attributes": {
+        "armorDurabilityLoss": 0.5,
+        "meleeWeaponsDamage": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "resourceful",
+      "type": "positive",
+      "attributes": {
+        "animalLootDropRate": 0.5,
+        "animalHarvestingSpeed": -0.75
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "butcher",
+      "type": "positive",
+      "attributes": {
+        "animalLootDropRate": 0.25,
+        "animalHarvestingSpeed": -0.5,
+        "wildCropDropRate": 0.5,
+        "forageDropRate": 0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "scavenger",
+      "type": "positive",
+      "attributes": {
+        "wildCropDropRate": 0.2,
+        "forageDropRate": 0.3
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "forager",
+      "type": "positive",
+      "attributes": {
+        "wildCropDropRate": 0.25,
+        "forageDropRate": 0.5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "squeamish",
+      "type": "negative",
+      "attributes": {
+        "animalLootDropRate": -0.25,
+        "animalHarvestingSpeed": 0.1
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "heavyhanded",
+      "type": "negative",
+      "attributes": {
+        "vesselContentsDropRate": -0.2,
+        "forageDropRate": -0.2,
+        "wildCropDropRate": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "civil",
+      "type": "negative",
+      "attributes": {
+        "animalLootDropRate": -0.25,
+        "animalHarvestingSpeed": 0.15,
+        "forageDropRate": -0.15,
+        "wildCropDropRate": -0.15
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "pilferer",
+      "type": "positive",
+      "attributes": {
+        "vesselContentsDropRate": 0.35,
+        "rustyGearDropRate": 2,
+        "wholeVesselLootChance": 0.25,
+        "hungerrate": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "gearhead",
+      "type": "positive",
+      "attributes": {
+        "rustyGearDropRate": 2,
+        "temporalGearDropRate": 2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "fleetfooted",
+      "type": "positive",
+      "attributes": {
+        "walkspeed": 0.1
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "furtive",
+      "type": "positive",
+      "attributes": {
+        "animalSeekingRange": -0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "sneaky",
+      "type": "positive",
+      "attributes": {
+        "animalSeekingRange": -0.6,
+        "walkspeed": 0.15
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "heavyfooted",
+      "type": "negative",
+      "attributes": {
+        "animalSeekingRange": 0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "miner",
+      "type": "positive",
+      "attributes": {
+        "oreDropRate": 0.4,
+        "miningSpeedMul": 1
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "rockhound",
+      "type": "positive",
+      "attributes": {
+        "oreDropRate": 0.15,
+        "miningSpeedMul": 0.5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "sluggish",
+      "type": "negative",
+      "attributes": {
+        "miningSpeedMul": -0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "careless",
+      "type": "negative",
+      "attributes": {
+        "oreDropRate": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "petraphobia",
+      "type": "negative",
+      "attributes": {
+        "oreDropRate": -0.2,
+        "miningSpeedMul": -0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "rugged",
+      "type": "positive",
+      "attributes": {
+        "maxhealthExtraPoints": 5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "weak",
+      "type": "negative",
+      "attributes": {
+        "maxhealthExtraPoints": -5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "fragile",
+      "type": "negative",
+      "attributes": {
+        "maxhealthExtraPoints": -2.5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "fasting",
+      "type": "positive",
+      "attributes": {
+        "hungerrate": -0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "ravenous",
+      "type": "negative",
+      "attributes": {
+        "hungerrate": 0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "hungry",
+      "type": "negative",
+      "attributes": {
+        "hungerrate": 0.1
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "unwell",
+      "type": "negative",
+      "attributes": {
+        "healingeffectivness": -0.25
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "technical",
+      "type": "positive",
+      "attributes": {
+        "temporalGearTLRepairCost": -1,
+        "mechanicalsDamageMul": 0.5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "burner",
+      "type": "positive",
+      "attributes": {
+        "charcoalPileDropRate": 0.35
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "lumberjack",
+      "type": "positive",
+      "attributes": {
+        "woodDropRate": 0.1,
+        "fruittreeDropRate": 1,
+        "treeseedDropRate": 2,
+        "stickDropRate": 0.5
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "farmer",
+      "type": "positive",
+      "attributes": {
+        "produceDropRate": 0.3
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "cultivator",
+      "type": "positive",
+      "attributes": {
+        "produceDropRate": 0.2
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "surgeon",
+      "type": "positive",
+      "attributes": {
+      }
+    },
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "add",
+    "path": "/26",
+    "value": {
+      "code": "stitch_doctor",
+      "type": "positive",
+      "attributes": {
+      }
+    },
+    "file": "game:config/traits.json"
+  }
+]
