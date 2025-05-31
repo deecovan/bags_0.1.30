@@ -1,7 +1,7 @@
 {
 "characterclass-super": "Super",
-"characterdesc-super": "<font color=\"#99c9f9\"><b>Just Super!</b></font>",
-"trait-super": "<font color=\"#99c9f9\"><b>Just Super!</b></font>",
+"characterdesc-super": "Just Super",
+"trait-super": "Just Super!",
 
     "characterclass-alchemyst": "Alchemyst",
     "characterclass-artisan": "Remeselník",

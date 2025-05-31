@@ -1,7 +1,7 @@
 {
 "characterclass-super": "Супер",
-"characterdesc-super": "<font color=\"#99c9f9\"><b>Просто Супер!</b></font>",
-"trait-super": "<font color=\"#99c9f9\"><b>Просто Супер!</b></font>",
+"characterdesc-super": "Просто Супер",
+"trait-super": "Просто Супер!",
 
 
 	// Character Classes //
