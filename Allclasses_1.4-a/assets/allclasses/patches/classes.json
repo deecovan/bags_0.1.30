@@ -4,55 +4,44 @@
     "op": "add",
     "path": "/6",
     "value": {
-    "code": "super",
-		"traits": ["super"],
-		"gear": [
-			{ "type": "item","code": "game:clothes-face-survivor" },
-			{ "type": "item", "code": "game:clothes-foot-survivor" },
-			{ "type": "item","code": "game:clothes-waist-sturdy-leather-belt" },
-			{ "type": "item", "code": "clothes-arm-leather-bracers" },
-			{ "type": "item", "code": "game:clothes-hand-leather-gloves" },
-			{ "type": "item", "code": "game:clothes-upperbody-hunter-shirt" },
-			{ "type": "item", "code": "game:clothes-upperbodyover-hunter-coat" },
-			{ "type": "item", "code": "game:clothes-lowerbody-hunter-leggings" },
-		]
-    }
-  },
-  {
-    "file": "game:config/characterclasses",
-    "op": "add",
-    "path": "/6",
-    "value":     
-    {"code": "alchemyst",
-	"traits": ["transmutation","forager", "fleetfooted", "fasting", "sluggish"],
-	"gear": 
-	[
-        {"type": "Item","code": "game:clothes-waist-alchemist" },
-        {"type": "Item","code": "game:clothes-upperbody-alchemist" },
-        {"type": "Item","code": "game:clothes-shoulder-alchemist" },
-        {"type": "Item","code": "game:clothes-lowerbody-alchemist" },
-        {"type": "Item","code": "game:clothes-head-alchemist" },
-        {"type": "Item","code": "game:clothes-foot-alchemist" }
-	]
-	}
-  },
-  {
-    "file": "game:config/characterclasses",
-    "op": "add",
-    "path": "/6",
-    "value": {
-"code": "artisan",
-        "traits": ["artifice","pilferer","rugged","nervous"],
-        "gear":
-        [
-		{"type": "item","code": "game:clothes-shoulder-shortsleeve-pearl-moonrobe" },
-		{"type": "item","code": "game:clothes-upperbody-earth-toned-robe" },
-		{"type": "item","code": "game:clothes-lowerbody-workmans-gown" },
-		{"type": "item","code": "game:clothes-foot-great-steppe-boots" },
-		{"type": "item","code": "game:clothes-hand-commoner-gloves" },
-		{"type": "item","code": "game:clothes-upperbodyover-commoner-coat" },
-		{"type": "item","code": "game:clothes-waist-linen-rope" }
-        ]
+      "code": "super",
+      "traits": [
+        "super"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-face-survivor"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-survivor"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-sturdy-leather-belt"
+        },
+        {
+          "type": "item",
+          "code": "clothes-arm-leather-bracers"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-leather-gloves"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-hunter-shirt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbodyover-hunter-coat"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-hunter-leggings"
+        }
+      ]
     }
   },
   {
@@ -60,17 +49,40 @@
     "op": "add",
     "path": "/6",
     "value": {
-        "code": "chef",
-        "traits": ["culinary","butcher","fasting","exhausted","clumsy"],
-        "gear":
-        [
-		{"type": "item","code": "game:clothes-lowerbody-pastoral-pants" },
-		{"type": "item","code": "game:clothes-upperbody-tattered-linen-shirt" },
-		{"type": "item","code": "game:clothes-waist-sturdy-leather-belt" },
-		{"type": "item","code": "game:clothes-foot-aristocrat-shoes"},
-		{"type": "item","code": "game:clothes-lowerbody-aristocrat-leggings"},
-		{"type": "item","code": "game:clothes-shoulder-minstrel-coat" }
-        ]
+      "code": "alchemyst",
+      "traits": [
+        "transmutation",
+        "forager",
+        "fleetfooted",
+        "fasting",
+        "sluggish"
+      ],
+      "gear": [
+        {
+          "type": "Item",
+          "code": "game:clothes-waist-alchemist"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-upperbody-alchemist"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-shoulder-alchemist"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-lowerbody-alchemist"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-head-alchemist"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-foot-alchemist"
+        }
+      ]
     }
   },
   {
@@ -78,17 +90,43 @@
     "op": "add",
     "path": "/6",
     "value": {
-    "code": "homesteader",
-		"traits": [ "pioneer","farmer", "rugged","butcher","petraphobia" ],
-		"gear": [
-			{ "type": "item", "code": "game:clothes-head-straw-hat" },
-			{ "type": "item", "code": "game:clothes-upperbody-commoner-shirt" },
-			{ "type": "item", "code": "game:clothes-lowerbody-workmans-gown" },
-			{ "type": "item", "code": "game:clothes-foot-worn-leather-boots" },
-			{ "type": "item", "code": "game:clothes-hand-heavy-leather-gloves" },
-			{ "type": "item", "code": "game:clothes-waist-linen-rope" }
-		]
-
+      "code": "artisan",
+      "traits": [
+        "artifice",
+        "pilferer",
+        "rugged",
+        "nervous"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-shoulder-shortsleeve-pearl-moonrobe"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-earth-toned-robe"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-workmans-gown"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-great-steppe-boots"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-commoner-gloves"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbodyover-commoner-coat"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-linen-rope"
+        }
+      ]
     }
   },
   {
@@ -96,16 +134,40 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "lumberjack",
-		"traits": ["carpenter", "lumberjack", "scavenger", "rugged", "inaccurate"],
-		"gear": [
-			{ "type": "item", "code": "game:clothes-upperbody-marketeer" },
-			{ "type": "item", "code": "game:clothes-lowerbody-commoner-trousers" },
-			{ "type": "item", "code": "game:clothes-foot-metalcap-boots" },
-			{ "type": "item", "code": "game:clothes-neck-acorn-amulet" },
-			{ "type": "item", "code": "game:clothes-hand-hunter-gloves" },
-			{ "type": "item", "code": "game:clothes-waist-peasant-strap" }
-		]
+      "code": "chef",
+      "traits": [
+        "culinary",
+        "butcher",
+        "fasting",
+        "exhausted",
+        "clumsy"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-pastoral-pants"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-tattered-linen-shirt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-sturdy-leather-belt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-aristocrat-shoes"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-aristocrat-leggings"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-shoulder-minstrel-coat"
+        }
+      ]
     }
   },
   {
@@ -113,16 +175,40 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "mason",
-		"traits": ["mason", "defender", "heavyfooted", "rockhound", "rugged" ],
-		"gear": [
-			{ "type": "item", "code": "game:clothes-upperbody-linen-tunic" },
-			{ "type": "item", "code": "game:clothes-lowerbody-workmans-gown" },
-			{ "type": "item", "code": "game:clothes-foot-survivor" },
-			{ "type": "item", "code": "game:clothes-hand-malefactor-gloves" },
-			{ "type": "item", "code": "game:clothes-waist-sturdy-belt" },
-			{ "type": "item", "code": "game:clothes-upperbodyover-travelers-earthrobe" }
-		]
+      "code": "homesteader",
+      "traits": [
+        "pioneer",
+        "farmer",
+        "rugged",
+        "butcher",
+        "petraphobia"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-head-straw-hat"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-commoner-shirt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-workmans-gown"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-worn-leather-boots"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-heavy-leather-gloves"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-linen-rope"
+        }
+      ]
     }
   },
   {
@@ -130,19 +216,40 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "merchant",
-        "traits": ["mercantile","sneaky","squeamish"],
-        "gear": 
-		[
-		 {"type": "item","code": "game:clothes-head-merchant-hat" },
-		 {"type": "item","code": "game:clothes-upperbody-merchant-shirt" },
-		 {"type": "item","code": "game:clothes-lowerbody-merchant-pants" },		 
-         {"type": "item","code": "game:clothes-foot-merchant-shoes" },
-		 {"type": "item","code": "game:clothes-neck-merchant-amulet" },
-		 {"type": "item","code": "game:clothes-waist-merchant-belt" },
-		 {"type": "item","code": "game:clothes-arm-merchant-bracelet" },
-		 {"type": "item","code": "game:clothes-upperbodyover-spice-merchants-coat" }
-        ]
+      "code": "lumberjack",
+      "traits": [
+        "carpenter",
+        "lumberjack",
+        "scavenger",
+        "rugged",
+        "inaccurate"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-marketeer"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-commoner-trousers"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-metalcap-boots"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-neck-acorn-amulet"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-hunter-gloves"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-peasant-strap"
+        }
+      ]
     }
   },
   {
@@ -150,17 +257,40 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "miner",
-        "traits": ["prospector","miner","exhausted"],
-        "gear": [
-        {"type": "Item","code": "game:clothes-head-jailors-hat" },
-        {"type": "Item","code": "game:clothes-upperbody-clockmaker-shirt" },
-        {"type": "Item","code": "game:clothes-lowerbody-malefactor-trousers" },
-        {"type": "Item","code": "game:clothes-hand-heavy-leather-gloves" },
-        {"type": "Item","code": "game:clothes-waist-heavy-belt" },
-        {"type": "Item","code": "game:clothes-face-leather-reinforced-mask" },
-        {"type": "Item","code": "game:clothes-foot-blackguard-shoes" }
-        ]
+      "code": "mason",
+      "traits": [
+        "mason",
+        "defender",
+        "heavyfooted",
+        "rockhound",
+        "rugged"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-linen-tunic"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-workmans-gown"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-survivor"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-malefactor-gloves"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-sturdy-belt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbodyover-travelers-earthrobe"
+        }
+      ]
     }
   },
   {
@@ -168,22 +298,46 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "mystic",
-        "traits": ["transcription","scavenger","sneaky","pilferer","careless", "clumsy" ],
-        "gear": 
-		[
-		 {"type": "item","code": "game:clothes-head-fortune-tellers-scarf" },
-		 {"type": "item","code": "game:clothes-shoulder-mooncloth-robe" },
-		 {"type": "item","code": "game:clothes-upperbody-scarlet-ornate-linen-tunic" },
-		 {"type": "item","code": "game:clothes-upperbodyover-forgotten" },
-		 {"type": "item","code": "game:clothes-lowerbody-nomad-trousers" },
-		 {"type": "item","code": "game:clothes-foot-tigh-high-boots" },		 
-         {"type": "item","code": "game:clothes-neck-forlorn-talisman" },
-		 {"type": "item","code": "game:clothes-face-survivor" },
-		 {"type": "item","code": "game:clothes-hand-laced-handsome-gloves" },
-		 {"type": "item","code": "game:clothes-waist-forlorn-belt" },
-		 {"type": "item","code": "game:clothes-arm-merchant-bracelet" }	
-        ]
+      "code": "merchant",
+      "traits": [
+        "mercantile",
+        "sneaky",
+        "squeamish"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-head-merchant-hat"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-merchant-shirt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-merchant-pants"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-merchant-shoes"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-neck-merchant-amulet"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-merchant-belt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-arm-merchant-bracelet"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbodyover-spice-merchants-coat"
+        }
+      ]
     }
   },
   {
@@ -191,15 +345,42 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "ranger",
-		"traits": ["sentry","sharpeye","defender","furtive","squeamish", "petraphobia"],
-		"gear": [
-			{ "type": "item", "code": "game:clothes-upperbody-hunter-shirt" },
-			{ "type": "item", "code": "game:clothes-upperbodyover-hunter-coat" },
-			{ "type": "item", "code": "game:clothes-lowerbody-hunter-leggings" },
-			{ "type": "item", "code": "game:clothes-foot-hunter-boots" },
-			{ "type": "item", "code": "game:clothes-hand-hunter-gloves" }
-		]
+      "code": "miner",
+      "traits": [
+        "prospector",
+        "miner",
+        "exhausted"
+      ],
+      "gear": [
+        {
+          "type": "Item",
+          "code": "game:clothes-head-jailors-hat"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-upperbody-clockmaker-shirt"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-lowerbody-malefactor-trousers"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-hand-heavy-leather-gloves"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-waist-heavy-belt"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-face-leather-reinforced-mask"
+        },
+        {
+          "type": "Item",
+          "code": "game:clothes-foot-blackguard-shoes"
+        }
+      ]
     }
   },
   {
@@ -207,16 +388,61 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "smith",
-		"traits": ["smith", "defender", "burner","heavyhanded"],
-		"gear": [
-			{ "type": "item", "code": "clothes-shoulder-blacksmith-apron" },
-			{ "type": "item", "code": "clothes-upperbodyover-clockmaker-tunic" },
-			{ "type": "item", "code": "clothes-lowerbody-raw-hide-trousers" },
-			{ "type": "item", "code": "clothes-foot-soldier-boots" },
-			{ "type": "item", "code": "clothes-hand-heavy-leather-gloves" },
-			{ "type": "item", "code": "clothes-arm-leather-bracers" }
-		]
+      "code": "mystic",
+      "traits": [
+        "transcription",
+        "scavenger",
+        "sneaky",
+        "pilferer",
+        "careless",
+        "clumsy"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-head-fortune-tellers-scarf"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-shoulder-mooncloth-robe"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-scarlet-ornate-linen-tunic"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbodyover-forgotten"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-nomad-trousers"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-tigh-high-boots"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-neck-forlorn-talisman"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-face-survivor"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-laced-handsome-gloves"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-waist-forlorn-belt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-arm-merchant-bracelet"
+        }
+      ]
     }
   },
   {
@@ -224,38 +450,37 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "medic",
-		"traits": ["stitch_doctor","surgeon", "rugged", "mender","civil" ],
-		"gear": [
-      {
-        "type": "item",
-        "code": "game:clothes-face-survivor"
-      },
-      {
-        "type": "item",
-        "code": "game:clothes-shoulder-embroidered-collar"
-      },
-      {
-        "type": "item",
-        "code": "game:clothes-upperbody-surgeon"
-      },
-      {
-        "type": "item",
-        "code": "game:clothes-lowerbody-deep"
-      },
-      {
-        "type": "item",
-        "code": "game:clothes-foot-surgeon"
-      },
-      {
-        "type": "item",
-        "code": "game:clothes-neck-merchant-amulet"
-      },
-      {
-        "type": "item",
-        "code": "game:clothes-hand-tailor-gloves"
-      }
-    ]
+      "code": "ranger",
+      "traits": [
+        "sentry",
+        "sharpeye",
+        "defender",
+        "furtive",
+        "squeamish",
+        "petraphobia"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-hunter-shirt"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbodyover-hunter-coat"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-hunter-leggings"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-hunter-boots"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-hunter-gloves"
+        }
+      ]
     }
   },
   {
@@ -263,16 +488,126 @@
     "op": "add",
     "path": "/6",
     "value": {
-"code": "tinker",
-		"traits": ["crafty","technical","tinkerer","fleetfooted","rockhound","civil"],
-		"gear": [
-			{ "type": "item", "code": "clothes-shoulder-clockmaker-apron" },
-			{ "type": "item", "code": "clothes-upperbody-scarlet-ornate-linen-tunic" },
-			{ "type": "item", "code": "clothes-lowerbody-jailor-pants" },
-			{ "type": "item", "code": "clothes-foot-high-leather-boots" },
-			{ "type": "item", "code": "clothes-hand-laced-handsome-gloves" },
-			{ "type": "item", "code": "clothes-waist-heavy-tool-belt" }
-		]
+      "code": "smith",
+      "traits": [
+        "smith",
+        "defender",
+        "burner",
+        "heavyhanded"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "clothes-shoulder-blacksmith-apron"
+        },
+        {
+          "type": "item",
+          "code": "clothes-upperbodyover-clockmaker-tunic"
+        },
+        {
+          "type": "item",
+          "code": "clothes-lowerbody-raw-hide-trousers"
+        },
+        {
+          "type": "item",
+          "code": "clothes-foot-soldier-boots"
+        },
+        {
+          "type": "item",
+          "code": "clothes-hand-heavy-leather-gloves"
+        },
+        {
+          "type": "item",
+          "code": "clothes-arm-leather-bracers"
+        }
+      ]
+    }
+  },
+  {
+    "file": "game:config/characterclasses",
+    "op": "add",
+    "path": "/6",
+    "value": {
+      "code": "medic",
+      "traits": [
+        "stitch_doctor",
+        "surgeon",
+        "rugged",
+        "mender",
+        "civil"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "game:clothes-face-survivor"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-shoulder-embroidered-collar"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-upperbody-surgeon"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-lowerbody-deep"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-foot-surgeon"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-neck-merchant-amulet"
+        },
+        {
+          "type": "item",
+          "code": "game:clothes-hand-tailor-gloves"
+        }
+      ]
+    }
+  },
+  {
+    "file": "game:config/characterclasses",
+    "op": "add",
+    "path": "/6",
+    "value": {
+      "code": "tinker",
+      "traits": [
+        "crafty",
+        "technical",
+        "tinkerer",
+        "fleetfooted",
+        "rockhound",
+        "civil"
+      ],
+      "gear": [
+        {
+          "type": "item",
+          "code": "clothes-shoulder-clockmaker-apron"
+        },
+        {
+          "type": "item",
+          "code": "clothes-upperbody-scarlet-ornate-linen-tunic"
+        },
+        {
+          "type": "item",
+          "code": "clothes-lowerbody-jailor-pants"
+        },
+        {
+          "type": "item",
+          "code": "clothes-foot-high-leather-boots"
+        },
+        {
+          "type": "item",
+          "code": "clothes-hand-laced-handsome-gloves"
+        },
+        {
+          "type": "item",
+          "code": "clothes-waist-heavy-tool-belt"
+        }
+      ]
     }
   }
 ]

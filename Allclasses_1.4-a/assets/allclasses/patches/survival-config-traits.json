@@ -3,7 +3,7 @@
     "op": "add",
     "path": "/26",
     "value": {
-      "code": "_super_",
+      "code": "super",
       "type": "positive",
       "attributes": {
         "animalHarvestingSpeed": -2,
