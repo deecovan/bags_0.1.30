@@ -1,6 +1,9 @@
 ﻿{
+"characterclass-super": "Super",
+"characterdesc-super": "<font color=\"#99c9f9\"><b>Just Super!</b></font>",
+"trait-super": "<font color=\"#99c9f9\"><b>Just Super!</b></font>",
+
 	// Character Classes //
-		"characterclass-super": "Super",
 		"characterclass-alchemyst": "Alchemyst",
 		"characterclass-artisan": "Artisan",
 		"characterclass-chef": "Chef",

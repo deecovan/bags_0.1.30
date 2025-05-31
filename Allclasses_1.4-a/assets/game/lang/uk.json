@@ -1,5 +1,8 @@
 {
 "characterclass-super": "Super",
+"characterdesc-super": "<font color=\"#99c9f9\"><b>Just Super!</b></font>",
+"trait-super": "<font color=\"#99c9f9\"><b>Just Super!</b></font>",
+
 "characterclass-alchemyst": "Алхімік",
 "characterclass-artisan": "Митець",
 "characterclass-chef": "Шеф-кухар",
