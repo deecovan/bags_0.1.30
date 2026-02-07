@@ -1,9 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/requiresTrait",
-    "value": "crafty",
-    "file": "game:recipes/grid/scrapweaponkit.json",
-    "side": "Server"
-  }
-]

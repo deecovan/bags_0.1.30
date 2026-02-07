@@ -1,6 +1,10 @@
 # bags_v0.1.30 GitHub repo
 
+## 26.02.08 bags_0.1.30
+- New Slim New Installation
+
 ## v0.1.30
+
 *  Publish
 ## v0.1.29
 *  Pre-Publish tests
