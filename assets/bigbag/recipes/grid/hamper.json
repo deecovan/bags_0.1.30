@@ -15,7 +15,7 @@
 		ingredientPattern: "T_T,_B_",
 		ingredients: {
 			"T": { type: "item", code: "game:*", allowedVariants: ["papyrustops", "cattailtops" ,"palmleaf"], quantity: 2 },
-			"B": { type: "item", code: "game:basket", quantity: 1 },
+			"B": { type: "item", code: "game:basket-*", quantity: 1 },
 		},
 		name: "hamper",
 		width: 3,
