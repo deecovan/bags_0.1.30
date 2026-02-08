@@ -2,6 +2,7 @@
 
 ## 26.02.08 bags_0.1.30
 - New Slim New Installation
+- fix game:basket-*
 
 ## v0.1.30
 
